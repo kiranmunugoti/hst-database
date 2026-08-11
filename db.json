@@ -537,9 +537,140 @@
       "hitCount": 1,
       "savedAt": 1786477615150,
       "version": 1
+    },
+    "nilla wafers": {
+      "offData": {
+        "name": "Nilla Wafers",
+        "brand": "Nilla",
+        "image": "https://images.openfoodfacts.org/images/products/004/400/007/7136/front_en.16.400.jpg",
+        "quantity": "15 oz",
+        "servingSize": "8 wafers (30 g)",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "c",
+        "ingredients": "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE [VITAMIN B1], RIBOFLAVIN [VITAMIN B2], FOLIC ACID), SUGAR, SOYBEAN AND/OR CANOLA OIL, PALM OIL, HIGH FRUCTOSE CORN SYRUP, WHEY (FROM MILK), EGGS, SALT, LEAVENING (BAKING SODA, CALCIUM PHOSPHATE), MONO-AND DIGLYCERIDES, NATURAL AND ARTIFICIAL FLAVOR, SOY LECITHIN.",
+        "additives": [
+          "e322",
+          "e322i",
+          "e341",
+          "e471",
+          "e500",
+          "e500ii"
+        ],
+        "allergens": [
+          "eggs",
+          "gluten",
+          "milk",
+          "soybeans"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "biscuits-and-cakes"
+        ],
+        "nut": {
+          "energy_kcal": 466.666666666667,
+          "fat": 20,
+          "saturated": 5,
+          "carbs": 70,
+          "sugars": 36.6666666666667,
+          "added_sugars": 11,
+          "fiber": 0,
+          "protein": 3.33333333333333,
+          "salt": 0.958333333333333,
+          "sodium": 0.383333333333333,
+          "energy_srv": 140,
+          "fat_srv": 6,
+          "carbs_srv": 21,
+          "sugars_srv": 11,
+          "protein_srv": 1,
+          "salt_srv": 0.287
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 36.6666666666667,
+        "added_sugars": 11,
+        "natural_sugars": 25.7,
+        "gi": 60,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "e471",
+          "id": "e471",
+          "name": "Mono- and Diglycerides",
+          "eNumber": "E471",
+          "category": "Emulsifier",
+          "risk": "low",
+          "effects": "May contain trans fats; generally safe",
+          "limit": "Not established",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e471",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "acrylamide",
+          "id": "acrylamide",
+          "name": "Acrylamide",
+          "eNumber": null,
+          "category": "Process Contaminant",
+          "risk": "high",
+          "effects": "Probable carcinogen, neurotoxic at high doses",
+          "limit": "ALARA (no official limit)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 3,
+      "hitCount": 1,
+      "savedAt": 1786477672227,
+      "version": 1
     }
   },
   "searchLog": [
+    {
+      "query": "Nilla wafers",
+      "category": "database",
+      "at": 1786477669864
+    },
     {
       "query": "Oatmeal cookie",
       "category": "database",
@@ -553,6 +684,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-11",
-    "totalProducts": 5
+    "totalProducts": 6
   }
 }
