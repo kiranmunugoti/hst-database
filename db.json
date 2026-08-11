@@ -667,6 +667,16 @@
   },
   "searchLog": [
     {
+      "query": "Snickers",
+      "category": "database",
+      "at": 1786477774119
+    },
+    {
+      "query": "Snickers",
+      "category": "database",
+      "at": 1786477770417
+    },
+    {
       "query": "Toblerone",
       "category": "database",
       "at": 1786477732367
