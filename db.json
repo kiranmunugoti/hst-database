@@ -259,11 +259,79 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "milk chocolate almond nougat": {
+      "offData": {
+        "name": "Milk Chocolate Almond Nougat",
+        "brand": "Toblerone",
+        "image": "https://images.openfoodfacts.org/images/products/761/450/001/0013/front_en.362.400.jpg",
+        "quantity": "100g",
+        "servingSize": "3 triangles (25 g)",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": "Zucker, VOLLMILCHPULVER, Kakaobutter (kakao mindestens 28%), Kakaomasse, Honig (3%), BUTTERREINFETT, MANDELN (1,6%), Emulgator (SOJALECITHINE), EIKLAR, Aroma.",
+        "additives": [],
+        "allergens": [
+          "eggs",
+          "milk",
+          "nuts",
+          "soybeans",
+          "nl:BUTTERREINFETT",
+          "nl:EIKLAR",
+          "nl:MANDELN",
+          "nl:VOLLMILCHPULVER"
+        ],
+        "labels": [
+          "vegetarian",
+          "no-gluten",
+          "green-dot",
+          "made-in-swiss",
+          "es:sin-tacc"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "cocoa-and-its-products"
+        ],
+        "nut": {
+          "energy_kcal": 529,
+          "fat": 28,
+          "saturated": 17,
+          "carbs": 61,
+          "sugars": 60,
+          "added_sugars": 0,
+          "fiber": 2.4,
+          "protein": 5.6,
+          "salt": 0.12,
+          "sodium": 0.048,
+          "energy_srv": 132,
+          "fat_srv": 7,
+          "carbs_srv": 15.2,
+          "sugars_srv": 15,
+          "protein_srv": 1.4,
+          "salt_srv": 0.03
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 60,
+        "added_sugars": 0,
+        "natural_sugars": 60,
+        "gi": 63,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786446055185,
+      "version": 1
     }
   },
   "searchLog": [],
   "_meta": {
     "lastUpdated": "2026-08-11",
-    "totalProducts": 2
+    "totalProducts": 3
   }
 }
