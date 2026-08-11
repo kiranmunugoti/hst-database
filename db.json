@@ -325,8 +325,46 @@
       "diet": "vegetarian",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786446055185,
-      "version": 1
+      "savedAt": 1786446057096,
+      "version": 1,
+      "alts": [
+        {
+          "name": "Pomme Noisette",
+          "brand": "Gerblé",
+          "reason": "Nutri-Score B option in the same category with 11.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Figue & son",
+          "brand": "Gerblé",
+          "reason": "Nutri-Score B option in the same category with 16.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Biscuits pavot citron",
+          "brand": "Gerblé",
+          "reason": "Nutri-Score B option in the same category with 16.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [],
