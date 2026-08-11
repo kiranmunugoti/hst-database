@@ -1,10 +1,4 @@
 {
-  "_meta": {
-    "lastUpdated": "2026-08-10",
-    "totalProducts": 1,
-    "note": "HST shared product database. Written by the app via the GitHub Contents API.",
-    "migratedFrom": "kiranmunugoti/hst-food-tracker"
-  },
   "products": {
     "maggi": {
       "offData": {
@@ -99,7 +93,7 @@
           "category": "Mycotoxin",
           "risk": "high",
           "effects": "Potent carcinogen, liver damage",
-          "limit": "2 \u00b5g/kg (EU)",
+          "limit": "2 µg/kg (EU)",
           "foundInIngredient": null,
           "ingredientConfirmed": false,
           "sourceUrl": null,
@@ -131,7 +125,7 @@
       "alts": [
         {
           "name": "Pain de mie grandes tranches Seigle & Graines 500g",
-          "brand": "la Boulang\u00e8re",
+          "brand": "la Boulangère",
           "reason": "Nutri-Score A option in the same category with 4.2g sugars per 100g.",
           "improvements": [
             "Low sugar",
@@ -169,7 +163,70 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "amul taaza milky milk": {
+      "offData": {
+        "name": "Amul Taaza Milky Milk",
+        "brand": "Amul",
+        "image": "https://images.openfoodfacts.org/images/products/890/126/226/0121/front_en.52.400.jpg",
+        "quantity": "500 ml",
+        "servingSize": "1.0 serving (200 ml)",
+        "nutriScore": "c",
+        "novaGroup": null,
+        "ecoScore": "d",
+        "ingredients": "PASTEURISED HOMOGENISED TONED MILK",
+        "additives": [],
+        "allergens": [
+          "milk"
+        ],
+        "labels": [
+          "no-antibiotics",
+          "without-hormones",
+          "without-antibiotics-or-hormones"
+        ],
+        "categories": [
+          "dairies",
+          "milks-liquid-and-powder",
+          "milks"
+        ],
+        "nut": {
+          "energy_kcal": 29,
+          "fat": 1.5,
+          "saturated": 1,
+          "carbs": 2.35,
+          "sugars": 2.35,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 1.5,
+          "salt": 0.05,
+          "sodium": 0.02,
+          "energy_srv": 58,
+          "fat_srv": 3,
+          "carbs_srv": 4.7,
+          "sugars_srv": 4.7,
+          "protein_srv": 3,
+          "salt_srv": 0.1
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 2.35,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 32,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786445611454,
+      "version": 1
     }
   },
-  "searchLog": []
+  "searchLog": [],
+  "_meta": {
+    "lastUpdated": "2026-08-11",
+    "totalProducts": 2
+  }
 }
