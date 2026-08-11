@@ -365,11 +365,66 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "organic vanilla bean extract": {
+      "offData": {
+        "name": "Organic vanilla bean extract",
+        "brand": "Tailor & Colledge",
+        "image": "https://images.openfoodfacts.org/images/products/930/064/100/1079/front_en.30.400.jpg",
+        "quantity": "100ml",
+        "servingSize": null,
+        "nutriScore": "b",
+        "novaGroup": 1,
+        "ecoScore": "unknown",
+        "ingredients": "Organic Bourbon vanilla extract (Water, Organic alcohol, Organic Bourbon vanilla pods)",
+        "additives": [],
+        "allergens": [],
+        "labels": [
+          "organic",
+          "australian-made",
+          "Aco cerrified organic"
+        ],
+        "categories": [
+          "el:Delicatessen"
+        ],
+        "nut": {
+          "energy_kcal": 191,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 0,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": null,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786477587399,
+      "version": 1
     }
   },
   "searchLog": [],
   "_meta": {
     "lastUpdated": "2026-08-11",
-    "totalProducts": 3
+    "totalProducts": 4
   }
 }
