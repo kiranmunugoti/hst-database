@@ -420,11 +420,134 @@
       "hitCount": 1,
       "savedAt": 1786477587399,
       "version": 1
+    },
+    "cotton candy": {
+      "offData": {
+        "name": "Cotton Candy",
+        "brand": "First Street",
+        "image": null,
+        "quantity": "28 g",
+        "servingSize": "28.000000000000004g",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "SUGAR, RED 40, BLUE 1, YELLOW 5, RED 3, ARTIFICIAL FLAVOR.",
+        "additives": [
+          "e102",
+          "e127",
+          "e129",
+          "e133"
+        ],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "undefined"
+        ],
+        "nut": {
+          "energy_kcal": 1428.57142857143,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 357.142857142857,
+          "sugars": 357.142857142857,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": 400,
+          "fat_srv": 0,
+          "carbs_srv": 100,
+          "sugars_srv": 100,
+          "protein_srv": 0,
+          "salt_srv": 0
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 357.142857142857,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 70,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "e102",
+          "id": "e102",
+          "name": "Tartrazine",
+          "eNumber": "E102",
+          "category": "Artificial Dye",
+          "risk": "medium",
+          "effects": "Hyperactivity in children, allergic reactions",
+          "limit": "7.5 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e102",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e127",
+          "id": "e127",
+          "name": "Erythrosine",
+          "eNumber": "E127",
+          "category": "Artificial Dye",
+          "risk": "medium",
+          "effects": "Thyroid effects at high doses",
+          "limit": "0.1 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e127",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e129",
+          "id": "e129",
+          "name": "Allura Red AC",
+          "eNumber": "E129",
+          "category": "Artificial Dye",
+          "risk": "medium",
+          "effects": "Hyperactivity in children",
+          "limit": "7 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e129",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e133",
+          "id": "e133",
+          "name": "Brilliant Blue FCF",
+          "eNumber": "E133",
+          "category": "Artificial Dye",
+          "risk": "low",
+          "effects": "Rare allergic reactions",
+          "limit": "6 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e133",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        }
+      ],
+      "risk": "medium",
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786477615150,
+      "version": 1
     }
   },
-  "searchLog": [],
+  "searchLog": [
+    {
+      "query": "Cotton candy",
+      "category": "database",
+      "at": 1786477612542
+    }
+  ],
   "_meta": {
     "lastUpdated": "2026-08-11",
-    "totalProducts": 4
+    "totalProducts": 5
   }
 }
