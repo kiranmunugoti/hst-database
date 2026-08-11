@@ -667,6 +667,11 @@
   },
   "searchLog": [
     {
+      "query": "Toblerone",
+      "category": "database",
+      "at": 1786477709167
+    },
+    {
       "query": "Nilla wafers",
       "category": "database",
       "at": 1786477669864
