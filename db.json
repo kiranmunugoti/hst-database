@@ -663,9 +663,88 @@
       "hitCount": 1,
       "savedAt": 1786477672227,
       "version": 1
+    },
+    "snickers": {
+      "offData": {
+        "name": "Snickers",
+        "brand": "Mars Snickers",
+        "image": "https://images.openfoodfacts.org/images/products/500/015/948/4480/front_en.18.400.jpg",
+        "quantity": "42g",
+        "servingSize": null,
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "sugar, peanuts, glucose syrup, skimmed milk powder, cocoa butter, cocoa mass, sunflower oil, palm fat, lactose and protein from whey (from milk), whey powder (from milk), milk fat, emulsifier (soya lecithin) salt, coconut oil, egg white powder, natural vanilla extract, milk protein. milk chocolate contains milk solids 14% minimum. milk chocolate contains vegetable fats in addition to cocoa butter. suitable for vegetarians gbj get in touch: © 0800 952 0077, @ www.mars.co.uk/contact, freepe s wrigley confectionery uk ltd. ie mars ireland, box 3856, dublin o1890 812 315",
+        "additives": [
+          "e315"
+        ],
+        "allergens": [
+          "eggs",
+          "milk",
+          "peanuts",
+          "soybeans"
+        ],
+        "labels": [],
+        "categories": [
+          "Barres-chocolatees-aux-fruits-oleagineux"
+        ],
+        "nut": {
+          "energy_kcal": 510,
+          "fat": 28,
+          "saturated": 9.7,
+          "carbs": 54,
+          "sugars": 45,
+          "added_sugars": 62.5,
+          "fiber": null,
+          "protein": 9.5,
+          "salt": 0.44,
+          "sodium": 0.176,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 45,
+        "added_sugars": 62.5,
+        "natural_sugars": -17.5,
+        "gi": 63,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786477808317,
+      "version": 1
     }
   },
   "searchLog": [
+    {
+      "query": "Snickers",
+      "category": "database",
+      "at": 1786477806123
+    },
     {
       "query": "Snickers",
       "category": "database",
@@ -704,6 +783,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-11",
-    "totalProducts": 6
+    "totalProducts": 7
   }
 }
