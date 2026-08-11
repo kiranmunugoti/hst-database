@@ -220,8 +220,45 @@
       "diet": "vegetarian",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786445611454,
-      "version": 1
+      "savedAt": 1786445613820,
+      "version": 1,
+      "alts": [
+        {
+          "name": "Perly",
+          "brand": "Jaouda",
+          "reason": "Nutri-Score A option in the same category with 9.4g sugars per 100g.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Cream cheese",
+          "brand": "Original",
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Skyr nature 0%",
+          "brand": "Yoplait",
+          "reason": "Nutri-Score A option in the same category with 3.6g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [],
