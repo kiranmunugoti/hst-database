@@ -887,6 +887,175 @@
       "hitCount": 1,
       "savedAt": 1786500336581,
       "version": 1
+    },
+    "churned ice cream": {
+      "offData": {
+        "name": "Churned Ice Cream",
+        "brand": "Harris Teeter",
+        "image": null,
+        "quantity": null,
+        "servingSize": "0.5 cup (67 g)",
+        "nutriScore": "c",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "Milk, sugar, corn syrup, cream, nonfat dry milk, whey, strawberry puree (contains strawberries, high fructose corn syrup, modified corn starch, citric acid, sodium benzoate, red #40.), cocoa (processed with alkali), propylene glycol monoester, mono and diglycerides, guar gum, cellulose gum, carrageenan, natural vanilla and strawberry flavors, annatto color, vitamin a palmitate.",
+        "additives": [
+          "e129",
+          "e211",
+          "e330",
+          "e407",
+          "e412",
+          "e466",
+          "e471"
+        ],
+        "allergens": [
+          "milk"
+        ],
+        "labels": [],
+        "categories": [
+          "desserts",
+          "frozen-foods",
+          "frozen-desserts"
+        ],
+        "nut": {
+          "energy_kcal": 164,
+          "fat": 5.22,
+          "saturated": 2.99,
+          "carbs": 23.88,
+          "sugars": 17.91,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 4.48,
+          "salt": 0.1875,
+          "sodium": 0.075,
+          "energy_srv": 110,
+          "fat_srv": 3.5,
+          "carbs_srv": 16,
+          "sugars_srv": 12,
+          "protein_srv": 3,
+          "salt_srv": 0.126
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 17.91,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 60,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "e129",
+          "id": "e129",
+          "name": "Allura Red AC",
+          "eNumber": "E129",
+          "category": "Artificial Dye",
+          "risk": "medium",
+          "effects": "Hyperactivity in children",
+          "limit": "7 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e129",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e211",
+          "id": "e211",
+          "name": "Sodium Benzoate",
+          "eNumber": "E211",
+          "category": "Preservative",
+          "risk": "medium",
+          "effects": "Forms benzene with Vit C; hyperactivity",
+          "limit": "5 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e211",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e407",
+          "id": "e407",
+          "name": "Carrageenan",
+          "eNumber": "E407",
+          "category": "Thickener",
+          "risk": "medium",
+          "effects": "Intestinal inflammation, possible carcinogen (degraded)",
+          "limit": "Not established",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e407",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e466",
+          "id": "e466",
+          "name": "Carboxymethyl Cellulose",
+          "eNumber": "E466",
+          "category": "Thickener",
+          "risk": "medium",
+          "effects": "Gut microbiome disruption, inflammation",
+          "limit": "Not established",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e466",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e471",
+          "id": "e471",
+          "name": "Mono- and Diglycerides",
+          "eNumber": "E471",
+          "category": "Emulsifier",
+          "risk": "low",
+          "effects": "May contain trans fats; generally safe",
+          "limit": "Not established",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e471",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "e1520",
+          "id": "e1520",
+          "name": "Propylene Glycol",
+          "eNumber": "E1520",
+          "category": "Humectant",
+          "risk": "low",
+          "effects": "Generally safe; high doses affect CNS",
+          "limit": "25 mg/kg bw/day",
+          "foundInIngredient": "Propylene Glycol",
+          "ingredientConfirmed": true,
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e1520",
+          "sourceName": "Open Food Facts",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786554539050,
+      "version": 1
     }
   },
   "searchLog": [
@@ -943,6 +1112,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-12",
-    "totalProducts": 10
+    "totalProducts": 11
   }
 }
