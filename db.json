@@ -1054,8 +1054,46 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786554539050,
-      "version": 1
+      "savedAt": 1786554540816,
+      "version": 1,
+      "alts": [
+        {
+          "name": "Le nature",
+          "brand": "Jaouda",
+          "reason": "Nutri-Score B option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "كيفير",
+          "brand": "Jaouda",
+          "reason": "Nutri-Score B option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "fromage herbes milky food",
+          "brand": "milky foof",
+          "reason": "Nutri-Score B option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "b",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
