@@ -786,6 +786,107 @@
       "hitCount": 1,
       "savedAt": 1786479622946,
       "version": 1
+    },
+    "mini kikat": {
+      "offData": {
+        "name": "Mini Kikat",
+        "brand": "Nestlé",
+        "image": "https://images.openfoodfacts.org/images/products/629/400/356/7781/front_fr.3.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 66.428571428571,
+          "fat": 3.7142857142857,
+          "saturated": 2.1428571428571,
+          "carbs": 7.2142857142857,
+          "sugars": 6.5,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0.92857142857143,
+          "salt": 0.035714285714285,
+          "sodium": 0.014285714285714,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 6.5,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786500144938,
+      "version": 1
+    },
+    "dosa cardamom mango lassi": {
+      "offData": {
+        "name": "Dosa Cardamom mango Lassi",
+        "brand": "Dosa",
+        "image": "https://images.openfoodfacts.org/images/products/085/279/600/7080/front_en.10.400.jpg",
+        "quantity": null,
+        "servingSize": "1 portion (237 ml)",
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [
+          "no-lactose",
+          "real-california-milk"
+        ],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 80.168776371308,
+          "fat": 1.68776371308017,
+          "saturated": 1.68776371308017,
+          "carbs": 10.5485232067511,
+          "sugars": 9.28270042194093,
+          "added_sugars": null,
+          "fiber": 0.843881856540084,
+          "protein": 5.48523206751055,
+          "salt": 0.210970464135021,
+          "sodium": 0.0843881856540084,
+          "energy_srv": 190,
+          "fat_srv": 4,
+          "carbs_srv": 25,
+          "sugars_srv": 22,
+          "protein_srv": 13,
+          "salt_srv": 0.5
+        }
+      },
+      "aiSugarData": {
+        "total_sugars": 9.28270042194093,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786500336581,
+      "version": 1
     }
   },
   "searchLog": [
@@ -841,7 +942,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-11",
-    "totalProducts": 8
+    "lastUpdated": "2026-08-12",
+    "totalProducts": 10
   }
 }
