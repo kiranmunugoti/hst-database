@@ -1202,7 +1202,92 @@
       "diet": "vegetarian",
       "undeclaredCount": 2,
       "hitCount": 1,
-      "savedAt": 1786659164383,
+      "savedAt": 1786659164916,
+      "domain": "food",
+      "version": 1,
+      "alts": []
+    },
+    "bueno crispy creamy chocolate bar": {
+      "offData": {
+        "name": "bueno Crispy Creamy Chocolate Bar",
+        "source": "off",
+        "brand": "Kinder",
+        "brands": [
+          "Kinder"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/000/980/000/0555/front_en.39.400.jpg",
+        "quantity": "1.5oz",
+        "servingSize": "2 serving (42 g)",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "MILK CHOCOLATE (SUGAR, COCOA BUTTER, COCOA MASS, SKIM MILK POWDER, BUTTER OIL, LECITHIN, VANILLIN), SUGAR, PALM OIL, ENRICHED FLOUR (WHEAT FLOUR, NIACIN, IRON, THIAMINE MONONITRATE, RIBOFLAVIN, FOLIC ACID), HAZELNUTS, SKIM MILK POWDER, MILK POWDER, SEMI-SWEET CHOCOLATE (SUGAR, COCOA MASS, COCOA BUTTER, LECITHIN, VANILLIN), COCOA, LECITHIN, SODIUM BICARBONATE, SALT, VANILLIN",
+        "additives": [
+          "e322",
+          "e322i"
+        ],
+        "allergens": [
+          "gluten",
+          "milk",
+          "nuts"
+        ],
+        "labels": [
+          "made-in-italy"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "cocoa-and-its-products"
+        ],
+        "nut": {
+          "energy_kcal": 571.428571428571,
+          "fat": 19.047619047619,
+          "saturated": 9.52380952380952,
+          "carbs": 26.1904761904762,
+          "sugars": 21.4285714285714,
+          "added_sugars": 28.5714285714286,
+          "fiber": 0,
+          "protein": 4.76190476190476,
+          "salt": 0.566893424036281,
+          "sodium": 0.0476190476190476,
+          "energy_srv": 240,
+          "fat_srv": 8,
+          "carbs_srv": 11,
+          "sugars_srv": 9,
+          "protein_srv": 2,
+          "salt_srv": 0.238
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 21.4285714285714,
+        "added_sugars": 28.5714285714286,
+        "natural_sugars": -7.1,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786659279559,
       "domain": "food",
       "version": 1
     }
@@ -1261,6 +1346,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 12
+    "totalProducts": 13
   }
 }
