@@ -1482,9 +1482,47 @@
       "diet": "vegetarian",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786664029834,
+      "savedAt": 1786664030422,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Fromage blanc nature",
+          "brand": "Leader Price",
+          "reason": "Nutri-Score A option in the same category with 4.1g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Fromage Blanc Battu Nature",
+          "brand": "PassionFroid",
+          "reason": "Nutri-Score A option in the same category with 3.9g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Faisselle de chèvre au lait cru entier",
+          "brand": "Pays des murets",
+          "reason": "Nutri-Score A option in the same category with 2.5g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
