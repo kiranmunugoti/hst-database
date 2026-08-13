@@ -1523,6 +1523,61 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "italian sparkling mineral water": {
+      "offData": {
+        "name": "Italian Sparkling Mineral Water",
+        "source": "off",
+        "brand": "Kirkland Signature",
+        "brands": [
+          "Kirkland Signature"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/009/661/940/1970/front_en.43.400.jpg",
+        "quantity": "500ml",
+        "servingSize": "1 bottle (500 g)",
+        "nutriScore": "a",
+        "novaGroup": 4,
+        "ecoScore": "not-applicable",
+        "ingredients": "MINERAL WATER, CARBON DIOXIDE",
+        "additives": [
+          "e290"
+        ],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "carbonated-drinks"
+        ],
+        "nut": {
+          "energy_kcal": 0,
+          "fat": 0,
+          "saturated": null,
+          "carbs": 0,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0,
+          "salt": 0.005,
+          "sodium": 0.002,
+          "energy_srv": 0,
+          "fat_srv": 0,
+          "carbs_srv": 0,
+          "sugars_srv": null,
+          "protein_srv": 0,
+          "salt_srv": 0.025
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786664300194,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1579,6 +1634,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 15
+    "totalProducts": 16
   }
 }
