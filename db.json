@@ -1793,6 +1793,70 @@
       "savedAt": 1786664753002,
       "domain": "food",
       "version": 1
+    },
+    "ananas bio": {
+      "offData": {
+        "name": "Ananas Bio",
+        "source": "off",
+        "brand": "Nature & more",
+        "brands": [
+          "Nature & more"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/871/303/700/4225/front.4.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "b",
+        "novaGroup": null,
+        "ecoScore": "a-plus",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [
+          "organic",
+          "eu-organic",
+          "fr:ab-agriculture-biologique",
+          "bio-nach-eg-oko-verordnung"
+        ],
+        "categories": [
+          "plant-based-foods-and-beverages",
+          "plant-based-foods",
+          "fruits-and-vegetables-based-foods"
+        ],
+        "nut": {
+          "energy_kcal": 50,
+          "fat": 0.1,
+          "saturated": 0,
+          "carbs": 13,
+          "sugars": 10,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0.5,
+          "salt": 0.01,
+          "sodium": 0.004,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 10,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786664775630,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1849,6 +1913,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 18
+    "totalProducts": 19
   }
 }
