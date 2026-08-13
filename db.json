@@ -1105,6 +1105,106 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "ready clean dark chocolate seasalt": {
+      "offData": {
+        "name": "Ready Clean Dark Chocolate Sea-Salt",
+        "source": "off",
+        "brand": "Ready",
+        "brands": [
+          "Ready"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/084/764/400/5103/front_en.110.400.jpg",
+        "quantity": "1.98oz (56g)",
+        "servingSize": "1 bar (56 g)",
+        "nutriScore": "not-applicable",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "Soy Protein Crisp (Soy Protein Isolate, Tapioca Starch and Sea Salt), Chicory Root Fiber, Coated Oats (Oats, Sugar, Canola Oil), Agave Syrup, Dark Chocolate Confectionery Coating (Sugar, Palm Kernel Oil, Cocoa Powder, Whole Milk Powder, Soy Lecithin, Salt), Whey Protein Crisp (Whey Protein Concentrate, Rice Flour), Whole Grain Brown Rice Flour, Flax Seed, Sunflower Oil, Glycerin, Natural Flavors, Sea Salt, Soy Lecithin.",
+        "additives": [
+          "e322",
+          "e322i",
+          "e422"
+        ],
+        "allergens": [
+          "gluten",
+          "milk",
+          "soybeans"
+        ],
+        "labels": [
+          "no-gluten"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "bars"
+        ],
+        "nut": {
+          "energy_kcal": 357,
+          "fat": 8.92857142857143,
+          "saturated": 3.57142857142857,
+          "carbs": 50,
+          "sugars": 17.8571428571429,
+          "added_sugars": 17.8571428571429,
+          "fiber": 12.5,
+          "protein": 26.7857142857143,
+          "salt": 0.000669642857142857,
+          "sodium": 0.000267857142857143,
+          "energy_srv": 200,
+          "fat_srv": 5,
+          "carbs_srv": 28,
+          "sugars_srv": 10,
+          "protein_srv": 15,
+          "salt_srv": 0.000375
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 17.8571428571429,
+        "added_sugars": 17.8571428571429,
+        "natural_sugars": 0,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "arsenic",
+          "id": "arsenic",
+          "name": "Arsenic",
+          "eNumber": null,
+          "category": "Heavy Metal",
+          "risk": "high",
+          "effects": "Carcinogen, cardiovascular disease risk",
+          "limit": "0.01 mg/L",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1786659164383,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1161,6 +1261,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 11
+    "totalProducts": 12
   }
 }
