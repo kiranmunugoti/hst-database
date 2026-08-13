@@ -667,16 +667,21 @@
     "snickers": {
       "offData": {
         "name": "Snickers",
-        "brand": "Mars Snickers",
-        "image": "https://images.openfoodfacts.org/images/products/500/015/948/4480/front_en.18.400.jpg",
-        "quantity": "42g",
-        "servingSize": null,
+        "source": "off",
+        "brand": "Snickers",
+        "brands": [
+          "Snickers"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/004/000/042/4314/front_en.11.400.jpg",
+        "quantity": "1.86oz",
+        "servingSize": "1 bar (52.7 g)",
         "nutriScore": "e",
         "novaGroup": 4,
         "ecoScore": "unknown",
-        "ingredients": "sugar, peanuts, glucose syrup, skimmed milk powder, cocoa butter, cocoa mass, sunflower oil, palm fat, lactose and protein from whey (from milk), whey powder (from milk), milk fat, emulsifier (soya lecithin) salt, coconut oil, egg white powder, natural vanilla extract, milk protein. milk chocolate contains milk solids 14% minimum. milk chocolate contains vegetable fats in addition to cocoa butter. suitable for vegetarians gbj get in touch: © 0800 952 0077, @ www.mars.co.uk/contact, freepe s wrigley confectionery uk ltd. ie mars ireland, box 3856, dublin o1890 812 315",
+        "ingredients": "milk chocolate (sugar, cocoa butter, chocolate, skim milk, lactose, milkfat, soy lecithin, artificial flavor), peanuts, corn syrup, sugar, sugar, milkfat, skim milk, partially hydrogenated soybean oil, lactose, salt, egg whites, chocolate, artificially flavor,",
         "additives": [
-          "e315"
+          "e322",
+          "e322i"
         ],
         "allergens": [
           "eggs",
@@ -684,34 +689,39 @@
           "peanuts",
           "soybeans"
         ],
-        "labels": [],
+        "labels": [
+          "pure-cocoa-butter"
+        ],
         "categories": [
-          "Barres-chocolatees-aux-fruits-oleagineux"
+          "snacks",
+          "sweet-snacks",
+          "cocoa-and-its-products"
         ],
         "nut": {
-          "energy_kcal": 510,
-          "fat": 28,
-          "saturated": 9.7,
-          "carbs": 54,
-          "sugars": 45,
-          "added_sugars": 62.5,
-          "fiber": null,
-          "protein": 9.5,
-          "salt": 0.44,
-          "sodium": 0.176,
-          "energy_srv": null,
-          "fat_srv": null,
-          "carbs_srv": null,
-          "sugars_srv": null,
-          "protein_srv": null,
-          "salt_srv": null
-        }
+          "energy_kcal": 474.38330170778,
+          "fat": 22.8,
+          "saturated": 8.54079696394687,
+          "carbs": 60.7,
+          "sugars": 53.1005692599621,
+          "added_sugars": 0,
+          "fiber": 1.89943074003795,
+          "protein": 7.59013282732448,
+          "salt": 0.5925,
+          "sodium": 0.237,
+          "energy_srv": 250,
+          "fat_srv": 12,
+          "carbs_srv": 32,
+          "sugars_srv": 28,
+          "protein_srv": 4,
+          "salt_srv": 0.312
+        },
+        "_domain": "food"
       },
       "aiSugarData": {
-        "total_sugars": 45,
-        "added_sugars": 62.5,
-        "natural_sugars": -17.5,
-        "gi": 63,
+        "total_sugars": 53.1005692599621,
+        "added_sugars": 0,
+        "natural_sugars": 53.1,
+        "gi": 55,
         "diabeticRisk": "high"
       },
       "allSubs": [
@@ -735,7 +745,8 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786477808317,
+      "savedAt": 1786658976090,
+      "domain": "food",
       "version": 1
     },
     "companies with good credibility": {
@@ -1149,7 +1160,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-12",
+    "lastUpdated": "2026-08-13",
     "totalProducts": 11
   }
 }
