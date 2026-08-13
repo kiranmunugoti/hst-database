@@ -1290,6 +1290,100 @@
       "savedAt": 1786659279559,
       "domain": "food",
       "version": 1
+    },
+    "sea salt": {
+      "offData": {
+        "name": "Sea Salt",
+        "source": "off",
+        "brand": "PopCorners",
+        "brands": [
+          "PopCorners"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/089/359/400/2068/front_en.103.400.jpg",
+        "quantity": "1 oz (28.3 g)",
+        "servingSize": "1 package (28.349 g)",
+        "nutriScore": "d",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": "YELLOW CORN, SUNFLOWER OIL, AND SEA SALT.",
+        "additives": [],
+        "allergens": [],
+        "labels": [
+          "no-gluten",
+          "kosher",
+          "no-artificial-flavors",
+          "no-artificial-preservatives",
+          "no-gmos",
+          "no-milk",
+          "no-preservatives",
+          "kosher-parve",
+          "no-artificial-colors",
+          "no-artificial-colours-and-preservatives",
+          "no-artificial-colours-or-flavours",
+          "no-flavour-enhancer",
+          "no-msg",
+          "no-trans-fat",
+          "no-trans-fat-and-preservatives",
+          "non-gmo-project",
+          "orthodox-union-kosher",
+          "with-sunflower-oil",
+          "No"
+        ],
+        "categories": [
+          "snacks",
+          "Popped-corn snacks"
+        ],
+        "nut": {
+          "energy_kcal": 100,
+          "fat": 8.93,
+          "saturated": 0,
+          "carbs": 78.57,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 7.14,
+          "salt": 1.36,
+          "sodium": 0.53571,
+          "energy_srv": 28.3,
+          "fat_srv": 2.53,
+          "carbs_srv": 22.3,
+          "sugars_srv": 0,
+          "protein_srv": 2.02,
+          "salt_srv": 0.386
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786663794612,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1346,6 +1440,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 13
+    "totalProducts": 14
   }
 }
