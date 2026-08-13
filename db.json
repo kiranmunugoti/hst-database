@@ -1578,6 +1578,127 @@
       "savedAt": 1786664300194,
       "domain": "food",
       "version": 1
+    },
+    "chocolate peanut butter protein bar": {
+      "offData": {
+        "name": "CHOCOLATE PEANUT BUTTER protein bar",
+        "source": "off",
+        "brand": "PURE PROTEIN",
+        "brands": [
+          "PURE PROTEIN"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/074/982/612/6487/front_en.185.400.jpg",
+        "quantity": "50g",
+        "servingSize": "1 bar (50 g)",
+        "nutriScore": "not-applicable",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "Chocolate flavored coating (maltitol, fractionated palm kernel oil, whey protein concentrate, cocoa [processed with alkali], calcium carbonate, natural flavors, soy lecithin, sucralose), hydrolyzed collagen, peanut flour, protein blend (milk protein isolate, whey protein isolate, whey protein concentrate), glycerin, maltitol syrup, soy crisps (soy protein isolate, tapioca starch, salt), water, peanuts, peanut oil, sucrose, salt, natural flavors, sucralose, almond butter, soy lecithin.",
+        "additives": [
+          "e170",
+          "e170i",
+          "e322",
+          "e322i",
+          "e422",
+          "e955",
+          "e965",
+          "e965ii"
+        ],
+        "allergens": [
+          "milk",
+          "peanuts",
+          "soybeans"
+        ],
+        "labels": [
+          "no-gluten"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "bars"
+        ],
+        "nut": {
+          "energy_kcal": 400,
+          "fat": 14,
+          "saturated": 6,
+          "carbs": 34,
+          "sugars": 4,
+          "added_sugars": 2,
+          "fiber": 2,
+          "protein": 40,
+          "salt": 0.5,
+          "sodium": 0.4,
+          "energy_srv": 200,
+          "fat_srv": 7,
+          "carbs_srv": 17,
+          "sugars_srv": 2,
+          "protein_srv": 20,
+          "salt_srv": 0.25
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 4,
+        "added_sugars": 2,
+        "natural_sugars": 2,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "e955",
+          "id": "e955",
+          "name": "Sucralose",
+          "eNumber": "E955",
+          "category": "Artificial Sweetener",
+          "risk": "medium",
+          "effects": "Gut microbiome effects; unstable at high heat",
+          "limit": "15 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e955",
+          "source": "local"
+        },
+        {
+          "key": "acrylamide",
+          "id": "acrylamide",
+          "name": "Acrylamide",
+          "eNumber": null,
+          "category": "Process Contaminant",
+          "risk": "high",
+          "effects": "Probable carcinogen, neurotoxic at high doses",
+          "limit": "ALARA (no official limit)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1786664592082,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1634,6 +1755,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 16
+    "totalProducts": 17
   }
 }
