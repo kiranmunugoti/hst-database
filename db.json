@@ -1738,6 +1738,61 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "choux de bruxelles": {
+      "offData": {
+        "name": "Choux de Bruxelles",
+        "source": "off",
+        "brand": "Vermersch",
+        "brands": [
+          "Vermersch"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/376/015/067/5646/front_en.3.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 41,
+          "fat": 0.10000000149011612,
+          "saturated": null,
+          "carbs": 6.699999809265137,
+          "sugars": 1.7000000476837158,
+          "added_sugars": null,
+          "fiber": 2,
+          "protein": 2.5999999046325684,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 1.7000000476837158,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786664753002,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1794,6 +1849,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 17
+    "totalProducts": 18
   }
 }
