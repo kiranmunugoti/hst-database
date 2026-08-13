@@ -1423,6 +1423,68 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "haagen dazs ice cream": {
+      "offData": {
+        "name": "Haagen dazs ice cream",
+        "source": "off",
+        "brand": "Häagen-Dazs",
+        "brands": [
+          "Häagen-Dazs"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/007/457/049/3883/front_en.4.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "d",
+        "novaGroup": 3,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [
+          "eggs",
+          "milk"
+        ],
+        "labels": [],
+        "categories": [
+          "desserts",
+          "frozen-foods",
+          "frozen-desserts"
+        ],
+        "nut": {
+          "energy_kcal": 282.61,
+          "fat": 18.48,
+          "saturated": 10.99,
+          "carbs": 25.27,
+          "sugars": 21.98,
+          "added_sugars": null,
+          "fiber": 1.09,
+          "protein": 4.35,
+          "salt": 0.1242,
+          "sodium": 0.04968,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 21.98,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 60,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786664029834,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1479,6 +1541,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-13",
-    "totalProducts": 14
+    "totalProducts": 15
   }
 }
