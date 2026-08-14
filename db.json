@@ -1985,6 +1985,77 @@
       "fetchedAt": 1786724995805,
       "domain": "food",
       "version": 1
+    },
+    "clear frying oil": {
+      "offData": {
+        "name": "CLEAR FRYING OIL",
+        "source": "usda",
+        "brand": "DAILY CHEF FOOD SERVICE",
+        "brands": [
+          "DAILY CHEF FOOD SERVICE",
+          "Wal-Mart Stores",
+          "Inc."
+        ],
+        "image": null,
+        "quantity": "35 lbs/15.8 kg/4.5 GAL",
+        "servingSize": "14g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "SOYBEAN OIL, TBHQ PRESERVATIVE, CITRIC ACID PRESERVATIVE, DIMETHYPOLYSILOXANE ANTI-FOAM AGENT.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Vegetable & Cooking Oils"
+        ],
+        "nut": {
+          "energy_kcal": 857,
+          "fat": 100,
+          "saturated": 14.3,
+          "carbs": 0,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [
+        {
+          "key": "e319",
+          "id": "e319",
+          "name": "TBHQ",
+          "eNumber": "E319",
+          "category": "Preservative",
+          "risk": "medium",
+          "effects": "Possible carcinogen at high doses, immune effects",
+          "limit": "0.7 mg/kg bw/day",
+          "foundInIngredient": "TBHQ",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e319",
+          "source": "local"
+        }
+      ],
+      "risk": "medium",
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786745318194,
+      "fetchedAt": 1786745318194,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2041,6 +2112,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-14",
-    "totalProducts": 21
+    "totalProducts": 22
   }
 }
