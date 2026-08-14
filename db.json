@@ -2031,84 +2031,228 @@
         }
       ]
     },
-    "cos:lip repair": {
+    "strawberry lemonade prebiotic soda": {
       "offData": {
-        "name": "Lip Repair",
+        "name": "Strawberry Lemonade Prebiotic Soda",
         "source": "off",
-        "brand": "Aquaphor",
+        "brand": "Poppi",
         "brands": [
-          "Aquaphor"
+          "Poppi"
         ],
-        "image": "https://images.openbeautyfacts.org/images/products/007/214/000/6334/front_en.7.400.jpg",
-        "quantity": "10mL",
-        "servingSize": "28g",
-        "nutriScore": "unknown",
-        "novaGroup": null,
+        "image": "https://images.openfoodfacts.org/images/products/070/958/651/4856/front_en.146.400.jpg",
+        "quantity": "355 ml / 12oz",
+        "servingSize": "1 portion (12 fl oz)",
+        "nutriScore": "c",
+        "novaGroup": 4,
+        "ecoScore": "not-applicable",
+        "ingredients": "Sparkling Water, Cassava Root Fiber, Organic Cane Sugar, Organic Apple Cider, Vinegar, Natural Flavors, Lemon Juice*, Strawberry Juice*, Organic Agave Inulin, Stevia Leaf Extract.\r\n* Concentrate",
+        "additives": [
+          "e960"
+        ],
+        "allergens": [],
+        "labels": [
+          "no-gluten",
+          "kosher",
+          "no-gmos",
+          "non-gmo-project",
+          "orthodox-union-kosher"
+        ],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "carbonated-drinks"
+        ],
+        "nut": {
+          "energy_kcal": 8.4535141258221,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": null,
+          "sugars": 1.40891902097035,
+          "added_sugars": 1.12713521677628,
+          "fiber": 0.84535141258221,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": 30,
+          "fat_srv": 0,
+          "carbs_srv": null,
+          "sugars_srv": 5,
+          "protein_srv": 0,
+          "salt_srv": 0
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 1.40891902097035,
+        "added_sugars": 1.12713521677628,
+        "natural_sugars": 0.3,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786723823576,
+      "fetchedAt": 1786723821589,
+      "domain": "food",
+      "version": 1,
+      "alts": [
+        {
+          "name": "Apă de izvor carbogazificată",
+          "brand": "Izvorul dintre brazi",
+          "reason": "Nutri-Score A option in the same category.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Andza",
+          "brand": "Andza",
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Essential Water",
+          "brand": "Supervalu",
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
+    },
+    "zero sugar thirst quencher orange": {
+      "offData": {
+        "name": "Zero Sugar Thirst Quencher Orange",
+        "source": "off",
+        "brand": "Gatorade",
+        "brands": [
+          "Gatorade"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/005/200/004/3181/front_en.16.400.jpg",
+        "quantity": null,
+        "servingSize": "1 BOTTLE (591 ml)",
+        "nutriScore": "c",
+        "novaGroup": 4,
         "ecoScore": "unknown",
-        "ingredients": "cultured pasteurized part-skim milk, salt, enzymes, cultured pasteurized milk, annatto (vegetable color), potato starch, tapioca starch, natamycin",
-        "additives": [],
+        "ingredients": "water, citric acid, sodium citrate, salt, monopotassium phosphate, gum arabic, natural flavor, sucralose, acesulfame potassium, sucrose acetate isobutyrate, glycerol ester of rosin, yellow 6.",
+        "additives": [
+          "e110",
+          "e330",
+          "e331",
+          "e340",
+          "e340i",
+          "e414",
+          "e444",
+          "e950",
+          "e955"
+        ],
         "allergens": [],
         "labels": [],
         "categories": [
-          "face",
-          "lip-balms"
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "sweetened-beverages"
         ],
         "nut": {
-          "energy_kcal": null,
-          "fat": null,
-          "saturated": null,
-          "carbs": null,
-          "sugars": null,
+          "energy_kcal": 0.84602368866328,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 0.16920473773266,
+          "sugars": 0,
           "added_sugars": null,
           "fiber": null,
-          "protein": null,
-          "salt": null,
-          "sodium": null,
-          "energy_srv": null,
-          "fat_srv": null,
-          "carbs_srv": null,
-          "sugars_srv": null,
-          "protein_srv": null,
-          "salt_srv": null
+          "protein": 0,
+          "salt": 0.11421319796954,
+          "sodium": 0.045685279187816,
+          "energy_srv": 5,
+          "fat_srv": 0,
+          "carbs_srv": 1,
+          "sugars_srv": 0,
+          "protein_srv": 0,
+          "salt_srv": 0.675
         },
-        "_domain": "cosmetics"
+        "_domain": "food"
       },
-      "aiSugarData": null,
-      "allSubs": [],
-      "risk": null,
-      "diet": "n/a",
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "e110",
+          "id": "e110",
+          "name": "Sunset Yellow FCF",
+          "eNumber": "E110",
+          "category": "Artificial Dye",
+          "risk": "medium",
+          "effects": "Hyperactivity, allergic reactions",
+          "limit": "4 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e110",
+          "source": "local"
+        },
+        {
+          "key": "e950",
+          "id": "e950",
+          "name": "Acesulfame K",
+          "eNumber": "E950",
+          "category": "Artificial Sweetener",
+          "risk": "medium",
+          "effects": "Possible metabolic effects; debated safety",
+          "limit": "9 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e950",
+          "source": "local"
+        },
+        {
+          "key": "e955",
+          "id": "e955",
+          "name": "Sucralose",
+          "eNumber": "E955",
+          "category": "Artificial Sweetener",
+          "risk": "medium",
+          "effects": "Gut microbiome effects; unstable at high heat",
+          "limit": "15 mg/kg bw/day",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e955",
+          "source": "local"
+        }
+      ],
+      "risk": "medium",
+      "diet": "vegan",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786723839278,
-      "fetchedAt": 1786723839277,
-      "domain": "cosmetics",
-      "formulation": {
-        "base": "Other",
-        "total": 8,
-        "leading": [
-          "cultured pasteurized part-skim milk",
-          "salt",
-          "enzymes",
-          "cultured pasteurized milk",
-          "annatto"
-        ],
-        "flaggedLeading": [],
-        "allergens": [],
-        "hasFragrance": false,
-        "complexity": "Low",
-        "note": "8 declared ingredients. INCI order is by descending concentration down to 1%, so the first few dominate the formulation."
-      },
-      "ph": {
-        "known": false,
-        "note": "No pH-dependent actives were identified."
-      },
-      "delivery": [],
-      "stabilisers": {
-        "present": [],
-        "gaps": [],
-        "waterBased": false,
-        "hasPreservative": false
-      },
+      "savedAt": 1786723870659,
+      "fetchedAt": 1786723870658,
+      "domain": "food",
       "version": 1
     }
   },
@@ -2166,6 +2310,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-14",
-    "totalProducts": 22
+    "totalProducts": 23
   }
 }
