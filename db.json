@@ -2094,10 +2094,47 @@
       "diet": "vegan",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786723821590,
+      "savedAt": 1786723823576,
       "fetchedAt": 1786723821589,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Apă de izvor carbogazificată",
+          "brand": "Izvorul dintre brazi",
+          "reason": "Nutri-Score A option in the same category.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Andza",
+          "brand": "Andza",
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Essential Water",
+          "brand": "Supervalu",
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
