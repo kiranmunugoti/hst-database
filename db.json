@@ -2031,110 +2031,85 @@
         }
       ]
     },
-    "strawberry lemonade prebiotic soda": {
+    "cos:lip repair": {
       "offData": {
-        "name": "Strawberry Lemonade Prebiotic Soda",
+        "name": "Lip Repair",
         "source": "off",
-        "brand": "Poppi",
+        "brand": "Aquaphor",
         "brands": [
-          "Poppi"
+          "Aquaphor"
         ],
-        "image": "https://images.openfoodfacts.org/images/products/070/958/651/4856/front_en.146.400.jpg",
-        "quantity": "355 ml / 12oz",
-        "servingSize": "1 portion (12 fl oz)",
-        "nutriScore": "c",
-        "novaGroup": 4,
-        "ecoScore": "not-applicable",
-        "ingredients": "Sparkling Water, Cassava Root Fiber, Organic Cane Sugar, Organic Apple Cider, Vinegar, Natural Flavors, Lemon Juice*, Strawberry Juice*, Organic Agave Inulin, Stevia Leaf Extract.\r\n* Concentrate",
-        "additives": [
-          "e960"
-        ],
+        "image": "https://images.openbeautyfacts.org/images/products/007/214/000/6334/front_en.7.400.jpg",
+        "quantity": "10mL",
+        "servingSize": "28g",
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": "cultured pasteurized part-skim milk, salt, enzymes, cultured pasteurized milk, annatto (vegetable color), potato starch, tapioca starch, natamycin",
+        "additives": [],
         "allergens": [],
-        "labels": [
-          "no-gluten",
-          "kosher",
-          "no-gmos",
-          "non-gmo-project",
-          "orthodox-union-kosher"
-        ],
+        "labels": [],
         "categories": [
-          "beverages-and-beverages-preparations",
-          "beverages",
-          "carbonated-drinks"
+          "face",
+          "lip-balms"
         ],
         "nut": {
-          "energy_kcal": 8.4535141258221,
-          "fat": 0,
-          "saturated": 0,
+          "energy_kcal": null,
+          "fat": null,
+          "saturated": null,
           "carbs": null,
-          "sugars": 1.40891902097035,
-          "added_sugars": 1.12713521677628,
-          "fiber": 0.84535141258221,
-          "protein": 0,
-          "salt": 0,
-          "sodium": 0,
-          "energy_srv": 30,
-          "fat_srv": 0,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
           "carbs_srv": null,
-          "sugars_srv": 5,
-          "protein_srv": 0,
-          "salt_srv": 0
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
         },
-        "_domain": "food"
+        "_domain": "cosmetics"
       },
-      "aiSugarData": {
-        "total_sugars": 1.40891902097035,
-        "added_sugars": 1.12713521677628,
-        "natural_sugars": 0.3,
-        "gi": 63,
-        "diabeticRisk": "medium"
-      },
+      "aiSugarData": null,
       "allSubs": [],
       "risk": null,
-      "diet": "vegan",
+      "diet": "n/a",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786723823576,
-      "fetchedAt": 1786723821589,
-      "domain": "food",
-      "version": 1,
-      "alts": [
-        {
-          "name": "Apă de izvor carbogazificată",
-          "brand": "Izvorul dintre brazi",
-          "reason": "Nutri-Score A option in the same category.",
-          "improvements": [
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Andza",
-          "brand": "Andza",
-          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Essential Water",
-          "brand": "Supervalu",
-          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        }
-      ]
+      "savedAt": 1786723839278,
+      "fetchedAt": 1786723839277,
+      "domain": "cosmetics",
+      "formulation": {
+        "base": "Other",
+        "total": 8,
+        "leading": [
+          "cultured pasteurized part-skim milk",
+          "salt",
+          "enzymes",
+          "cultured pasteurized milk",
+          "annatto"
+        ],
+        "flaggedLeading": [],
+        "allergens": [],
+        "hasFragrance": false,
+        "complexity": "Low",
+        "note": "8 declared ingredients. INCI order is by descending concentration down to 1%, so the first few dominate the formulation."
+      },
+      "ph": {
+        "known": false,
+        "note": "No pH-dependent actives were identified."
+      },
+      "delivery": [],
+      "stabilisers": {
+        "present": [],
+        "gaps": [],
+        "waterBased": false,
+        "hasPreservative": false
+      },
+      "version": 1
     }
   },
   "searchLog": [
