@@ -1857,6 +1857,72 @@
       "savedAt": 1786664775630,
       "domain": "food",
       "version": 1
+    },
+    "kitkat": {
+      "offData": {
+        "name": "KitKat",
+        "source": "off",
+        "brand": "Nestle",
+        "brands": [
+          "Nestle"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/890/105/886/8036/front_en.5.400.jpg",
+        "quantity": "55g",
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": 4,
+        "ecoScore": "d",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [
+          "gluten",
+          "milk",
+          "none",
+          "soybeans"
+        ],
+        "labels": [
+          "fssai"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "cocoa-and-its-products"
+        ],
+        "nut": {
+          "energy_kcal": 518,
+          "fat": 25.7,
+          "saturated": 23,
+          "carbs": 63.8,
+          "sugars": 48.7,
+          "added_sugars": null,
+          "fiber": 2.6,
+          "protein": 8,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 48.7,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786669541445,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1912,7 +1978,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-13",
-    "totalProducts": 19
+    "lastUpdated": "2026-08-14",
+    "totalProducts": 20
   }
 }
