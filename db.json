@@ -1924,334 +1924,65 @@
       "domain": "food",
       "version": 1
     },
-    "edamame": {
+    "desi dahi": {
       "offData": {
-        "name": "Edamame",
+        "name": "Desi dahi",
         "source": "off",
-        "brand": "Biena",
+        "brand": "Desi Natural",
         "brands": [
-          "Biena"
+          "Desi Natural"
         ],
-        "image": "https://images.openfoodfacts.org/images/products/081/000/378/1918/front_en.79.400.jpg",
-        "quantity": "510 g",
-        "servingSize": "1 portion (30 g)",
-        "nutriScore": "c",
-        "novaGroup": 3,
-        "ecoScore": "unknown",
-        "ingredients": "Edamame (Soybeans), Avocado Oil, Himalayan Pink Salt Seasoning (Himalayan Pink Salt, Black Pepper, Onion Powder, Garlic Powder, Yeast Extract)",
-        "additives": [],
-        "allergens": [
-          "soybeans"
-        ],
-        "labels": [
-          "no-gluten",
-          "kosher",
-          "no-gmos",
-          "non-gmo-project",
-          "orthodox-union-kosher"
-        ],
-        "categories": [
-          "snacks",
-          "variety-packs",
-          "snacks-variety-packs"
-        ],
-        "nut": {
-          "energy_kcal": 433.333333333333,
-          "fat": 16.6666666666667,
-          "saturated": 1.66666666666667,
-          "carbs": 30,
-          "sugars": 6.66666666666667,
-          "added_sugars": 0,
-          "fiber": 16.6666666666667,
-          "protein": 43.3333333333333,
-          "salt": 2.16666666666667,
-          "sodium": 0.8,
-          "energy_srv": 130,
-          "fat_srv": 5,
-          "carbs_srv": 9,
-          "sugars_srv": 2,
-          "protein_srv": 13,
-          "salt_srv": 0.65
-        },
-        "_domain": "food"
-      },
-      "aiSugarData": {
-        "total_sugars": 6.66666666666667,
-        "added_sugars": 0,
-        "natural_sugars": 6.7,
-        "gi": 55,
-        "diabeticRisk": "low"
-      },
-      "allSubs": [],
-      "risk": null,
-      "diet": "vegan",
-      "undeclaredCount": 0,
-      "hitCount": 1,
-      "savedAt": 1786723328154,
-      "fetchedAt": 1786723326373,
-      "domain": "food",
-      "version": 1,
-      "alts": [
-        {
-          "name": "Salade & Serpentini Poulet Emmental Tomates Crudités sauce au parmesan",
-          "brand": "Mix multitude d'ingrédients savoureux !",
-          "reason": "Nutri-Score A option in the same category with 1.1g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Pop corn maïs français à éclater",
-          "brand": "Brut de coques",
-          "reason": "Nutri-Score A option in the same category with 1.4g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "High fibre",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Biscuits noisettes & Raisins",
-          "brand": "Bio Soleil",
-          "reason": "Nutri-Score A option in the same category with 13.2g sugars per 100g.",
-          "improvements": [
-            "High fibre",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        }
-      ]
-    },
-    "strawberry lemonade prebiotic soda": {
-      "offData": {
-        "name": "Strawberry Lemonade Prebiotic Soda",
-        "source": "off",
-        "brand": "Poppi",
-        "brands": [
-          "Poppi"
-        ],
-        "image": "https://images.openfoodfacts.org/images/products/070/958/651/4856/front_en.146.400.jpg",
-        "quantity": "355 ml / 12oz",
-        "servingSize": "1 portion (12 fl oz)",
-        "nutriScore": "c",
-        "novaGroup": 4,
-        "ecoScore": "not-applicable",
-        "ingredients": "Sparkling Water, Cassava Root Fiber, Organic Cane Sugar, Organic Apple Cider, Vinegar, Natural Flavors, Lemon Juice*, Strawberry Juice*, Organic Agave Inulin, Stevia Leaf Extract.\r\n* Concentrate",
-        "additives": [
-          "e960"
-        ],
-        "allergens": [],
-        "labels": [
-          "no-gluten",
-          "kosher",
-          "no-gmos",
-          "non-gmo-project",
-          "orthodox-union-kosher"
-        ],
-        "categories": [
-          "beverages-and-beverages-preparations",
-          "beverages",
-          "carbonated-drinks"
-        ],
-        "nut": {
-          "energy_kcal": 8.4535141258221,
-          "fat": 0,
-          "saturated": 0,
-          "carbs": null,
-          "sugars": 1.40891902097035,
-          "added_sugars": 1.12713521677628,
-          "fiber": 0.84535141258221,
-          "protein": 0,
-          "salt": 0,
-          "sodium": 0,
-          "energy_srv": 30,
-          "fat_srv": 0,
-          "carbs_srv": null,
-          "sugars_srv": 5,
-          "protein_srv": 0,
-          "salt_srv": 0
-        },
-        "_domain": "food"
-      },
-      "aiSugarData": {
-        "total_sugars": 1.40891902097035,
-        "added_sugars": 1.12713521677628,
-        "natural_sugars": 0.3,
-        "gi": 63,
-        "diabeticRisk": "medium"
-      },
-      "allSubs": [],
-      "risk": null,
-      "diet": "vegan",
-      "undeclaredCount": 0,
-      "hitCount": 1,
-      "savedAt": 1786723823576,
-      "fetchedAt": 1786723821589,
-      "domain": "food",
-      "version": 1,
-      "alts": [
-        {
-          "name": "Apă de izvor carbogazificată",
-          "brand": "Izvorul dintre brazi",
-          "reason": "Nutri-Score A option in the same category.",
-          "improvements": [
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Andza",
-          "brand": "Andza",
-          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        },
-        {
-          "name": "Essential Water",
-          "brand": "Supervalu",
-          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
-          "improvements": [
-            "Low sugar",
-            "Better Nutri-Score"
-          ],
-          "nutriScore": "a",
-          "sourceUrl": null,
-          "sourceName": "Open Food Facts"
-        }
-      ]
-    },
-    "zero sugar thirst quencher orange": {
-      "offData": {
-        "name": "Zero Sugar Thirst Quencher Orange",
-        "source": "off",
-        "brand": "Gatorade",
-        "brands": [
-          "Gatorade"
-        ],
-        "image": "https://images.openfoodfacts.org/images/products/005/200/004/3181/front_en.16.400.jpg",
+        "image": "https://images.openfoodfacts.org/images/products/005/360/016/4344/front_en.9.400.jpg",
         "quantity": null,
-        "servingSize": "1 BOTTLE (591 ml)",
-        "nutriScore": "c",
-        "novaGroup": 4,
-        "ecoScore": "unknown",
-        "ingredients": "water, citric acid, sodium citrate, salt, monopotassium phosphate, gum arabic, natural flavor, sucralose, acesulfame potassium, sucrose acetate isobutyrate, glycerol ester of rosin, yellow 6.",
+        "servingSize": "1 serving (170 g)",
+        "nutriScore": "b",
+        "novaGroup": 1,
+        "ecoScore": "b",
+        "ingredients": "Cultured Pasteurized Grade A Whole Milk, Probiotic Culture, Natamycin",
         "additives": [
-          "e110",
-          "e330",
-          "e331",
-          "e340",
-          "e340i",
-          "e414",
-          "e444",
-          "e950",
-          "e955"
+          "e235"
         ],
         "allergens": [],
         "labels": [],
         "categories": [
-          "beverages-and-beverages-preparations",
-          "beverages",
-          "sweetened-beverages"
+          "dairies",
+          "fermented-foods",
+          "fermented-milk-products"
         ],
         "nut": {
-          "energy_kcal": 0.84602368866328,
-          "fat": 0,
-          "saturated": 0,
-          "carbs": 0.16920473773266,
-          "sugars": 0,
-          "added_sugars": null,
+          "energy_kcal": 70.5882352941177,
+          "fat": 3.52941176470588,
+          "saturated": 2.05882352941176,
+          "carbs": 5.88235294117647,
+          "sugars": 5.88235294117647,
+          "added_sugars": 0,
           "fiber": null,
-          "protein": 0,
-          "salt": 0.11421319796954,
-          "sodium": 0.045685279187816,
-          "energy_srv": 5,
-          "fat_srv": 0,
-          "carbs_srv": 1,
-          "sugars_srv": 0,
-          "protein_srv": 0,
-          "salt_srv": 0.675
+          "protein": 4.11764705882353,
+          "salt": 0.139704411764706,
+          "sodium": 0.0529411764705882,
+          "energy_srv": 120,
+          "fat_srv": 6,
+          "carbs_srv": 10,
+          "sugars_srv": 10,
+          "protein_srv": 7,
+          "salt_srv": 0.237
         },
         "_domain": "food"
       },
       "aiSugarData": {
-        "total_sugars": 0,
-        "added_sugars": null,
-        "natural_sugars": null,
-        "gi": 55,
+        "total_sugars": 5.88235294117647,
+        "added_sugars": 0,
+        "natural_sugars": 5.9,
+        "gi": 32,
         "diabeticRisk": "low"
       },
-      "allSubs": [
-        {
-          "key": "e110",
-          "id": "e110",
-          "name": "Sunset Yellow FCF",
-          "eNumber": "E110",
-          "category": "Artificial Dye",
-          "risk": "medium",
-          "effects": "Hyperactivity, allergic reactions",
-          "limit": "4 mg/kg bw/day",
-          "foundInIngredient": "declared additives",
-          "ingredientConfirmed": true,
-          "body": "EFSA",
-          "sourceName": "EFSA / JECFA (via Open Food Facts)",
-          "sourceUrl": "https://world.openfoodfacts.org/additive/e110",
-          "source": "local"
-        },
-        {
-          "key": "e950",
-          "id": "e950",
-          "name": "Acesulfame K",
-          "eNumber": "E950",
-          "category": "Artificial Sweetener",
-          "risk": "medium",
-          "effects": "Possible metabolic effects; debated safety",
-          "limit": "9 mg/kg bw/day",
-          "foundInIngredient": "declared additives",
-          "ingredientConfirmed": true,
-          "body": "EFSA",
-          "sourceName": "EFSA / JECFA (via Open Food Facts)",
-          "sourceUrl": "https://world.openfoodfacts.org/additive/e950",
-          "source": "local"
-        },
-        {
-          "key": "e955",
-          "id": "e955",
-          "name": "Sucralose",
-          "eNumber": "E955",
-          "category": "Artificial Sweetener",
-          "risk": "medium",
-          "effects": "Gut microbiome effects; unstable at high heat",
-          "limit": "15 mg/kg bw/day",
-          "foundInIngredient": "declared additives",
-          "ingredientConfirmed": true,
-          "body": "EFSA",
-          "sourceName": "EFSA / JECFA (via Open Food Facts)",
-          "sourceUrl": "https://world.openfoodfacts.org/additive/e955",
-          "source": "local"
-        }
-      ],
-      "risk": "medium",
-      "diet": "vegan",
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786723870659,
-      "fetchedAt": 1786723870658,
+      "savedAt": 1786724995806,
+      "fetchedAt": 1786724995805,
       "domain": "food",
       "version": 1
     }
@@ -2310,6 +2041,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-14",
-    "totalProducts": 23
+    "totalProducts": 21
   }
 }
