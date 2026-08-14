@@ -2057,6 +2057,70 @@
       "domain": "food",
       "version": 1,
       "alts": []
+    },
+    "nonfat greek yogurt": {
+      "offData": {
+        "name": "Nonfat Greek Yogurt",
+        "source": "off",
+        "brand": "Chobani",
+        "brands": [
+          "Chobani"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/089/470/001/0137/front.3.400.jpg",
+        "quantity": "32 OZ",
+        "servingSize": null,
+        "nutriScore": "a",
+        "novaGroup": 3,
+        "ecoScore": "b",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [
+          "cultured-nonfat-milk"
+        ],
+        "labels": [
+          "fair-trade"
+        ],
+        "categories": [
+          "dairies",
+          "fermented-foods",
+          "fermented-milk-products"
+        ],
+        "nut": {
+          "energy_kcal": 52.9,
+          "fat": 0,
+          "saturated": null,
+          "carbs": 3.53,
+          "sugars": 3.53,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 9.41,
+          "salt": 0.0956,
+          "sodium": 0.0382,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 3.53,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 35,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786745955739,
+      "fetchedAt": 1786745955738,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2113,6 +2177,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-14",
-    "totalProducts": 22
+    "totalProducts": 23
   }
 }
