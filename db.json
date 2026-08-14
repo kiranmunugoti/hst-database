@@ -1923,6 +1923,74 @@
       "savedAt": 1786669541445,
       "domain": "food",
       "version": 1
+    },
+    "edamame": {
+      "offData": {
+        "name": "Edamame",
+        "source": "off",
+        "brand": "Biena",
+        "brands": [
+          "Biena"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/081/000/378/1918/front_en.79.400.jpg",
+        "quantity": "510 g",
+        "servingSize": "1 portion (30 g)",
+        "nutriScore": "c",
+        "novaGroup": 3,
+        "ecoScore": "unknown",
+        "ingredients": "Edamame (Soybeans), Avocado Oil, Himalayan Pink Salt Seasoning (Himalayan Pink Salt, Black Pepper, Onion Powder, Garlic Powder, Yeast Extract)",
+        "additives": [],
+        "allergens": [
+          "soybeans"
+        ],
+        "labels": [
+          "no-gluten",
+          "kosher",
+          "no-gmos",
+          "non-gmo-project",
+          "orthodox-union-kosher"
+        ],
+        "categories": [
+          "snacks",
+          "variety-packs",
+          "snacks-variety-packs"
+        ],
+        "nut": {
+          "energy_kcal": 433.333333333333,
+          "fat": 16.6666666666667,
+          "saturated": 1.66666666666667,
+          "carbs": 30,
+          "sugars": 6.66666666666667,
+          "added_sugars": 0,
+          "fiber": 16.6666666666667,
+          "protein": 43.3333333333333,
+          "salt": 2.16666666666667,
+          "sodium": 0.8,
+          "energy_srv": 130,
+          "fat_srv": 5,
+          "carbs_srv": 9,
+          "sugars_srv": 2,
+          "protein_srv": 13,
+          "salt_srv": 0.65
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 6.66666666666667,
+        "added_sugars": 0,
+        "natural_sugars": 6.7,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786723326374,
+      "fetchedAt": 1786723326373,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -1979,6 +2047,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-14",
-    "totalProducts": 20
+    "totalProducts": 21
   }
 }
