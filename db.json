@@ -1987,10 +1987,49 @@
       "diet": "vegan",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786723326374,
+      "savedAt": 1786723328154,
       "fetchedAt": 1786723326373,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Salade & Serpentini Poulet Emmental Tomates Crudités sauce au parmesan",
+          "brand": "Mix multitude d'ingrédients savoureux !",
+          "reason": "Nutri-Score A option in the same category with 1.1g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Pop corn maïs français à éclater",
+          "brand": "Brut de coques",
+          "reason": "Nutri-Score A option in the same category with 1.4g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Biscuits noisettes & Raisins",
+          "brand": "Bio Soleil",
+          "reason": "Nutri-Score A option in the same category with 13.2g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
