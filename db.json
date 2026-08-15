@@ -745,7 +745,8 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786658976090,
+      "savedAt": 1786778881834,
+      "fetchedAt": 1786778881831,
       "domain": "food",
       "version": 1
     },
