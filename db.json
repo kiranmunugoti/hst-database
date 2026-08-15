@@ -2768,6 +2768,62 @@
       "fetchedAt": 1786779063833,
       "domain": "food",
       "version": 1
+    },
+    "moon pie chocolate mini pies count": {
+      "offData": {
+        "name": "Moon pie chocolate mini pies count",
+        "source": "off",
+        "brand": "Moon Pie",
+        "brands": [
+          "Moon Pie"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/007/210/816/1013/front_en.13.400.jpg",
+        "quantity": null,
+        "servingSize": "28.0g",
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 392.85714285714,
+          "fat": 10.714285714286,
+          "saturated": 7.1428571428571,
+          "carbs": 71.428571428571,
+          "sugars": 35.714285714286,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 3.5714285714286,
+          "salt": 0.3125,
+          "sodium": 0.125,
+          "energy_srv": 110,
+          "fat_srv": 3,
+          "carbs_srv": 20,
+          "sugars_srv": 10,
+          "protein_srv": 1,
+          "salt_srv": 0.0875
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 35.714285714286,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 63,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786835375306,
+      "fetchedAt": 1786835375305,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2824,6 +2880,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-15",
-    "totalProducts": 28
+    "totalProducts": 29
   }
 }
