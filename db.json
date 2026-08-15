@@ -745,10 +745,50 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786778881834,
+      "savedAt": 1786778883594,
       "fetchedAt": 1786778881831,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Hazelnut waffles",
+          "brand": "Frankonia",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 1.5g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Unsweetened applesauce",
+          "brand": "Mott's",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 8.9g sugars per 100g.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Hard Boiled Eggs",
+          "brand": "Simple Truth Organic",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 7.1g sugars per 100g.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     },
     "companies with good credibility": {
       "offData": {
