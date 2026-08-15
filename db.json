@@ -2354,6 +2354,107 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "twix": {
+      "offData": {
+        "name": "Twix",
+        "source": "off",
+        "brand": "Twix",
+        "brands": [
+          "Twix"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/004/000/000/4356/front_en.29.400.jpg",
+        "quantity": "1.79oz",
+        "servingSize": "1 pack (50.7 g)",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "MILK CHOCOLATE (SUGAR, COCOA BUTTER, CHOCOLATE, SKIM MILK, LACTOSE, MILKFAT, SOY LECITHIN, PGPR), ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), SUGAR, PALM OIL, CORN SYRUP, SKIM MILK, DEXTROSE, SALT, COCOA, SOY LECITHIN, MODIFIED CORNSTARCH, BAKING SODA, ARTIFICIAL FLAVOR.",
+        "additives": [
+          "e322",
+          "e322i",
+          "e476",
+          "e500",
+          "e500ii"
+        ],
+        "allergens": [
+          "gluten",
+          "milk",
+          "soybeans"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "cocoa-and-its-products"
+        ],
+        "nut": {
+          "energy_kcal": 493.096646942801,
+          "fat": 23.6686390532544,
+          "saturated": 13.8067061143984,
+          "carbs": 67.0611439842209,
+          "sugars": 49.3096646942801,
+          "added_sugars": 45.3648915187377,
+          "fiber": 1.9723865877712,
+          "protein": 3.94477317554241,
+          "salt": 0.517751479289941,
+          "sodium": 0.207100591715976,
+          "energy_srv": 250,
+          "fat_srv": 12,
+          "carbs_srv": 34,
+          "sugars_srv": 25,
+          "protein_srv": 2,
+          "salt_srv": 0.263
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 49.3096646942801,
+        "added_sugars": 45.3648915187377,
+        "natural_sugars": 3.9,
+        "gi": 55,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1786778939513,
+      "fetchedAt": 1786778939513,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2410,6 +2511,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-15",
-    "totalProducts": 25
+    "totalProducts": 26
   }
 }
