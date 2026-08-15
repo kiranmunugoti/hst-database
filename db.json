@@ -2495,6 +2495,220 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "cos:cetaphil moisturizing cream": {
+      "offData": {
+        "name": "Cetaphil Moisturizing Cream",
+        "source": "off",
+        "brand": "Cetaphil",
+        "brands": [
+          "Cetaphil"
+        ],
+        "image": "https://images.openbeautyfacts.org/images/products/030/299/391/7564/front_en.4.400.jpg",
+        "quantity": "16 oz",
+        "servingSize": null,
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "Water, Glycerin, Petrolatum, Dicaprylyl either, Dimethicone, Glyceryl stearate, cetyl alcohol, helianthus annus (sunflower) seed oil, Pg-30 stearate, pantheol, niacinamide, prunus amygdalus dulcis (sweet almond) oil, tocopheryl acetate, pantolactone, Dimethicone, acrylate/c10-30 alkyl acrylate crosspolymer, carbomer, propylene glycol, sodium edta, benzyl alcohol, phenoxyethanol, sodium hydroxide, citric acid",
+        "additives": [
+          "e1519",
+          "e1520",
+          "e330",
+          "e422",
+          "e524",
+          "e900",
+          "e900a",
+          "e905",
+          "e905b"
+        ],
+        "allergens": [
+          "benzyl-alcohol"
+        ],
+        "labels": [],
+        "categories": [
+          "face",
+          "face-lotions"
+        ],
+        "nut": {
+          "energy_kcal": null,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "cosmetics"
+      },
+      "aiSugarData": null,
+      "allSubs": [
+        {
+          "key": "phenoxyethanol",
+          "id": "phenoxyethanol",
+          "name": "Phenoxyethanol",
+          "category": "Preservative",
+          "risk": "low",
+          "effects": "Generally well tolerated; occasional irritation",
+          "limit": "1.0% (EU)",
+          "body": "SCCS",
+          "note": "SCCS re-confirmed 1% as safe for all age groups.",
+          "ph": null,
+          "phNote": null,
+          "position": 21,
+          "ofTotal": 23,
+          "ingredientConfirmed": true,
+          "sourceName": "SCCS (EU)",
+          "sourceUrl": "https://health.ec.europa.eu/scientific-committees/scientific-committee-consumer-safety-sccs_en"
+        },
+        {
+          "key": "niacinamide",
+          "id": "niacinamide",
+          "name": "Niacinamide",
+          "category": "Vitamin B3 active",
+          "risk": "low",
+          "effects": "Well tolerated; flushing at high concentration",
+          "limit": "No restriction",
+          "body": "CIR",
+          "note": null,
+          "ph": [
+            5,
+            7
+          ],
+          "phNote": "Converts to nicotinic acid (which causes flushing) at low pH.",
+          "position": 11,
+          "ofTotal": 23,
+          "ingredientConfirmed": true,
+          "sourceName": "CIR",
+          "sourceUrl": "https://www.cir-safety.org/"
+        },
+        {
+          "key": "edta_cos",
+          "id": "edta_cos",
+          "name": "Disodium EDTA",
+          "category": "Chelator / stabiliser",
+          "risk": "low",
+          "effects": "Poorly biodegradable; can increase penetration of other ingredients",
+          "limit": "CIR: safe as used",
+          "body": "CIR",
+          "note": null,
+          "ph": null,
+          "phNote": null,
+          "position": 19,
+          "ofTotal": 23,
+          "ingredientConfirmed": true,
+          "sourceName": "CIR",
+          "sourceUrl": "https://www.cir-safety.org/"
+        },
+        {
+          "key": "propylene_glycol",
+          "id": "propylene_glycol",
+          "name": "Propylene Glycol",
+          "category": "Humectant / penetration enhancer",
+          "risk": "low",
+          "effects": "Occasional irritation and contact allergy",
+          "limit": "Safe as used in cosmetics",
+          "body": "CIR",
+          "note": "Increases how much of everything else in the formula crosses the barrier.",
+          "ph": null,
+          "phNote": null,
+          "position": 18,
+          "ofTotal": 23,
+          "ingredientConfirmed": true,
+          "sourceName": "CIR",
+          "sourceUrl": "https://www.cir-safety.org/"
+        }
+      ],
+      "risk": "low",
+      "diet": "n/a",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786779042856,
+      "fetchedAt": 1786779042855,
+      "domain": "cosmetics",
+      "formulation": {
+        "base": "Water-based",
+        "total": 23,
+        "leading": [
+          "Water",
+          "Glycerin",
+          "Petrolatum",
+          "Dicaprylyl either",
+          "Dimethicone"
+        ],
+        "flaggedLeading": [],
+        "allergens": [
+          "benzyl alcohol"
+        ],
+        "hasFragrance": false,
+        "complexity": "Moderate",
+        "note": "23 declared ingredients. INCI order is by descending concentration down to 1%, so the first few dominate the formulation."
+      },
+      "ph": {
+        "known": true,
+        "range": [
+          5,
+          7
+        ],
+        "drivers": [
+          {
+            "name": "Niacinamide",
+            "ph": [
+              5,
+              7
+            ],
+            "note": "Converts to nicotinic acid (which causes flushing) at low pH."
+          }
+        ],
+        "conflicts": [],
+        "incompatibilities": [],
+        "note": "To work as intended this formulation should sit between pH 5 and 7."
+      },
+      "delivery": [],
+      "stabilisers": {
+        "present": [
+          {
+            "key": "chelator",
+            "name": "Chelators",
+            "note": "Bind trace metals that would otherwise catalyse oxidation."
+          },
+          {
+            "key": "emulsifier",
+            "name": "Emulsifiers",
+            "note": "Hold oil and water phases together; instability shows as separation."
+          },
+          {
+            "key": "thickener",
+            "name": "Thickeners",
+            "note": "Set viscosity and help suspend actives evenly."
+          },
+          {
+            "key": "phadjust",
+            "name": "pH adjusters",
+            "note": "Bring the formulation to its intended pH."
+          },
+          {
+            "key": "preservative",
+            "name": "Preservative system",
+            "note": "Prevents microbial growth in any product containing water."
+          }
+        ],
+        "gaps": [
+          "An oil phase is present with no antioxidant identified, which makes the oils more likely to oxidise over the product's life."
+        ],
+        "waterBased": true,
+        "hasPreservative": true
+      },
+      "version": 1
     }
   },
   "searchLog": [
@@ -2551,6 +2765,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-15",
-    "totalProducts": 26
+    "totalProducts": 27
   }
 }
