@@ -2169,6 +2169,70 @@
       "fetchedAt": 1786751105503,
       "domain": "food",
       "version": 1
+    },
+    "whole milk yogurt": {
+      "offData": {
+        "name": "Whole Milk Yogurt",
+        "source": "off",
+        "brand": "Dani",
+        "brands": [
+          "Dani"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/074/290/632/5800/front_en.20.400.jpg",
+        "quantity": "5 LBS (2.27KG)",
+        "servingSize": "0.75 cup (170 g)",
+        "nutriScore": "c",
+        "novaGroup": 3,
+        "ecoScore": "b",
+        "ingredients": "_Cultured Pasteurized Whole Milk,_ Natamycin(A Natural Mold Inhibitor).",
+        "additives": [
+          "e235"
+        ],
+        "allergens": [
+          "milk"
+        ],
+        "labels": [],
+        "categories": [
+          "dairies",
+          "fermented-foods",
+          "fermented-milk-products"
+        ],
+        "nut": {
+          "energy_kcal": 18666.6666666667,
+          "fat": 3.52941176470588,
+          "saturated": 2.05882352941176,
+          "carbs": 7.05882352941176,
+          "sugars": 7.05882352941176,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 4.70588235294118,
+          "salt": 0.198529411764706,
+          "sodium": 0.0794117647058823,
+          "energy_srv": 31700,
+          "fat_srv": 6,
+          "carbs_srv": 12,
+          "sugars_srv": 12,
+          "protein_srv": 8,
+          "salt_srv": 0.338
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 7.05882352941176,
+        "added_sugars": 0,
+        "natural_sugars": 7.1,
+        "gi": 35,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786752269533,
+      "fetchedAt": 1786752269532,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2224,7 +2288,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-14",
-    "totalProducts": 24
+    "lastUpdated": "2026-08-15",
+    "totalProducts": 25
   }
 }
