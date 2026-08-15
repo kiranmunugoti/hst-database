@@ -2709,6 +2709,65 @@
         "hasPreservative": true
       },
       "version": 1
+    },
+    "altoids curiously strong mints peppermint": {
+      "offData": {
+        "name": "ALTOIDS Curiously Strong Mints Peppermint",
+        "source": "off",
+        "brand": "Altoids",
+        "brands": [
+          "Altoids"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/002/200/015/9335/front_en.15.400.jpg",
+        "quantity": "1.76 oz (50 g)",
+        "servingSize": "3 pieces (2 g)",
+        "nutriScore": "unknown",
+        "novaGroup": 4,
+        "ecoScore": "a",
+        "ingredients": "SUGAR, GUM ARABIC, NATURAL FLAVOR (OIL OF PEPPERMINT), GELATIN.",
+        "additives": [
+          "e414",
+          "e428"
+        ],
+        "allergens": [
+          "gelatin"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "confectioneries"
+        ],
+        "nut": {
+          "energy_kcal": 714.285714285714,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": 142.857142857143,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": 14.3,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "meat",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786779063834,
+      "fetchedAt": 1786779063833,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2765,6 +2824,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-15",
-    "totalProducts": 27
+    "totalProducts": 28
   }
 }
