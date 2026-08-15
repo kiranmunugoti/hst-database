@@ -2229,10 +2229,49 @@
       "diet": "vegetarian",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1786752269533,
+      "savedAt": 1786752271436,
       "fetchedAt": 1786752269532,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Greek Nonfat Yogurt",
+          "brand": "Lucerne",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 4.7g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Milk",
+          "brand": "Crystal",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 5.5g sugars per 100g.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Greek Blended Coconut low fat yogurt",
+          "brand": "Yoplait",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 12.7g sugars per 100g.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
