@@ -3116,6 +3116,81 @@
       "fetchedAt": 1786959721365,
       "domain": "food",
       "version": 1
+    },
+    "crisp wafers in milk chocolate milk chocolate": {
+      "offData": {
+        "name": "CRISP WAFERS IN MILK CHOCOLATE, MILK CHOCOLATE",
+        "source": "usda",
+        "brand": "KIT KAT",
+        "brands": [
+          "KIT KAT",
+          "The Hershey Company"
+        ],
+        "image": null,
+        "quantity": "1.5 oz/42 g",
+        "servingSize": "42GRM",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "SUGAR; WHEAT FLOUR; COCOA BUTTER; CHOCOLATE; VEGETABLE OIL [PALM OIL; PALM KERNEL OIL]; LACTOSE (MILK); SKIM MILK; MILK FAT; CONTAINS 2% OR LESS OF: LECITHIN (SOY); PGPR; VANILLIN, ARTIFICIAL FLAVOR; SALT; YEAST; BAKING SODA.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Chocolate"
+        ],
+        "nut": {
+          "energy_kcal": 500,
+          "fat": 26.2,
+          "saturated": 16.7,
+          "carbs": 66.7,
+          "sugars": 54.8,
+          "added_sugars": 52.4,
+          "fiber": 2.4,
+          "protein": 4.76,
+          "salt": 0.12,
+          "sodium": 0.048,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 54.8,
+        "added_sugars": 52.4,
+        "natural_sugars": 2.4,
+        "gi": 63,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786961509800,
+      "fetchedAt": 1786961509799,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3172,6 +3247,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-17",
-    "totalProducts": 33
+    "totalProducts": 34
   }
 }
