@@ -3066,6 +3066,56 @@
       "fetchedAt": 1786959675451,
       "domain": "food",
       "version": 1
+    },
+    "bacardi superior white rum": {
+      "offData": {
+        "name": "Bacardi Superior White Rum",
+        "source": "off",
+        "brand": "Bacardi",
+        "brands": [
+          "Bacardi"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/008/048/001/5305/front_en.3.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": null,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786959721366,
+      "fetchedAt": 1786959721365,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3122,6 +3172,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-17",
-    "totalProducts": 32
+    "totalProducts": 33
   }
 }
