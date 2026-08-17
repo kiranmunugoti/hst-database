@@ -3187,10 +3187,51 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786961509800,
+      "savedAt": 1786961521197,
       "fetchedAt": 1786961509799,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Verse chocolate",
+          "brand": null,
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 10.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "HERSHEY'S ONE double chocolate flavor inspired protein bar",
+          "brand": "HERSHEY'S",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 6.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Liegeois Saveur Chocolat",
+          "brand": "Milbona",
+          "elsewhere": true,
+          "reason": "Nutri-Score A option in the same category with 4.8g sugars per 100g. Not confirmed as sold in your market.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
