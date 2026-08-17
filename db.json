@@ -2950,6 +2950,66 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "vodka": {
+      "offData": {
+        "name": "Vodka",
+        "source": "off",
+        "brand": "Titos",
+        "brands": [
+          "Titos"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/061/994/700/0013/front_en.4.400.jpg",
+        "quantity": null,
+        "servingSize": "1.5oz",
+        "nutriScore": "not-applicable",
+        "novaGroup": null,
+        "ecoScore": "d",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "alcoholic-beverages"
+        ],
+        "nut": {
+          "energy_kcal": 70,
+          "fat": null,
+          "saturated": 0,
+          "carbs": null,
+          "sugars": 0,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": 29.8,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": 0,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786937749537,
+      "fetchedAt": 1786937749534,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3006,6 +3066,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-17",
-    "totalProducts": 30
+    "totalProducts": 31
   }
 }
