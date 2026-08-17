@@ -3232,6 +3232,63 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "tito burritos": {
+      "offData": {
+        "name": "Tito Burritos",
+        "source": "off",
+        "brand": null,
+        "brands": [],
+        "image": "https://images.openfoodfacts.org/images/products/085/002/391/6105/front_en.3.400.jpg",
+        "quantity": "10 oz",
+        "servingSize": null,
+        "nutriScore": "b",
+        "novaGroup": null,
+        "ecoScore": "e",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "sandwiches",
+          "burritos"
+        ],
+        "nut": {
+          "energy_kcal": 140.84507042254,
+          "fat": 7.7464788732394,
+          "saturated": 2.4647887323944,
+          "carbs": 8.4507042253521,
+          "sugars": 0,
+          "added_sugars": null,
+          "fiber": 0.70422535211268,
+          "protein": 8.4507042253521,
+          "salt": 0.98591549295775,
+          "sodium": 0.3943661971831,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787008161155,
+      "fetchedAt": 1787008161155,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3288,6 +3345,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-17",
-    "totalProducts": 34
+    "totalProducts": 35
   }
 }
