@@ -2905,10 +2905,51 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786926706073,
+      "savedAt": 1786926708191,
       "fetchedAt": 1786926706073,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Breakfast Blend",
+          "brand": "LiDL",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "VegetarianBakedBeans",
+          "brand": "Saro Taormina",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 10.0g sugars per 100g.",
+          "improvements": [
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Whole Grain Blend Elbow Pasta",
+          "brand": "Columbia",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 3.6g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "High fibre",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
