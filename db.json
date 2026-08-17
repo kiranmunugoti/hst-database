@@ -2824,6 +2824,91 @@
       "fetchedAt": 1786835375305,
       "domain": "food",
       "version": 1
+    },
+    "classic potato chips": {
+      "offData": {
+        "name": "Classic Potato Chips",
+        "source": "off",
+        "brand": "Lay's",
+        "brands": [
+          "Lay's"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/002/840/009/0858/front_en.132.400.jpg",
+        "quantity": "1 oz (28.3 g)",
+        "servingSize": "1 portion (28.3 g)",
+        "nutriScore": "d",
+        "novaGroup": 3,
+        "ecoScore": "b",
+        "ingredients": "pasteurized milk, cheese cultures, salt, microbial enzymes, annatto color",
+        "additives": [],
+        "allergens": [
+          "milk"
+        ],
+        "labels": [
+          "no-gluten",
+          "kosher",
+          "no-artificial-flavors",
+          "no-preservatives",
+          "certified-gluten-free",
+          "orthodox-union-kosher"
+        ],
+        "categories": [
+          "plant-based-foods-and-beverages",
+          "dairies",
+          "fermented-foods"
+        ],
+        "nut": {
+          "energy_kcal": 565.371024734982,
+          "fat": 35.3356890459364,
+          "saturated": 5.30035335689046,
+          "carbs": 53.0035335689046,
+          "sugars": 3.53356890459364,
+          "added_sugars": 0,
+          "fiber": 3.53356890459364,
+          "protein": 7.06713780918728,
+          "salt": 1.23674911660777,
+          "sodium": 0.49469964664311,
+          "energy_srv": 160,
+          "fat_srv": 10,
+          "carbs_srv": 15,
+          "sugars_srv": 1,
+          "protein_srv": 2,
+          "salt_srv": 0.35
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 3.53356890459364,
+        "added_sugars": 0,
+        "natural_sugars": 3.5,
+        "gi": 70,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "acrylamide",
+          "id": "acrylamide",
+          "name": "Acrylamide",
+          "eNumber": null,
+          "category": "Process Contaminant",
+          "risk": "high",
+          "effects": "Probable carcinogen, neurotoxic at high doses",
+          "limit": "ALARA (no official limit)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1786926706073,
+      "fetchedAt": 1786926706073,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -2879,7 +2964,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-15",
-    "totalProducts": 29
+    "lastUpdated": "2026-08-17",
+    "totalProducts": 30
   }
 }
