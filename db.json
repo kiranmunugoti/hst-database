@@ -3010,6 +3010,62 @@
       "fetchedAt": 1786937749534,
       "domain": "food",
       "version": 1
+    },
+    "gin": {
+      "offData": {
+        "name": "Gin",
+        "source": "off",
+        "brand": "Hendrick’s",
+        "brands": [
+          "Hendrick’s"
+        ],
+        "image": null,
+        "quantity": null,
+        "servingSize": "1 portion (1.5 fl oz)",
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 247.969747690782,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 0,
+          "sugars": 0,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": 110,
+          "fat_srv": 0,
+          "carbs_srv": 0,
+          "sugars_srv": 0,
+          "protein_srv": 0,
+          "salt_srv": 0
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1786959675454,
+      "fetchedAt": 1786959675451,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3066,6 +3122,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-17",
-    "totalProducts": 31
+    "totalProducts": 32
   }
 }
