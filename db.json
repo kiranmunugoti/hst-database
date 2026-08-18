@@ -3289,6 +3289,56 @@
       "fetchedAt": 1787008161155,
       "domain": "food",
       "version": 1
+    },
+    "crispy chicken fillets": {
+      "offData": {
+        "name": "CRISPY CHICKEN FILLETS",
+        "source": "off",
+        "brand": "WELLSLEY FARMS",
+        "brands": [
+          "WELLSLEY FARMS"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/088/867/020/2104/front_en.4.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 247.787610619469,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": 1.76991150442478,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787014252105,
+      "fetchedAt": 1787014252104,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3344,7 +3394,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-17",
-    "totalProducts": 35
+    "lastUpdated": "2026-08-18",
+    "totalProducts": 36
   }
 }
