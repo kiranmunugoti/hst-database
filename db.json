@@ -3543,6 +3543,108 @@
         "hasPreservative": true
       },
       "version": 1
+    },
+    "creme filled wafer snack dark chocolate": {
+      "offData": {
+        "name": "Creme Filled Wafer Snack Dark Chocolate",
+        "source": "off",
+        "brand": "RipVan",
+        "brands": [
+          "RipVan"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/085/002/070/5160/front_en.15.400.jpg",
+        "quantity": null,
+        "servingSize": "1 wafer (22 g)",
+        "nutriScore": "d",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": "Palm Fruit Oil*, Wheat Flour, Sugar Beet Fiber, Chocolate (Sugar, Chocolate), Sugar Cane Fiber, Canola Lecithin (Canola Lecithin, Wheat Flour), Coconut Oil, Salt, Stevia Leaf Extract, Baking Soda",
+        "additives": [
+          "e322",
+          "e322i",
+          "e500",
+          "e500ii",
+          "e960"
+        ],
+        "allergens": [
+          "gluten"
+        ],
+        "labels": [
+          "vegetarian",
+          "vegan"
+        ],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "biscuits-and-cakes"
+        ],
+        "nut": {
+          "energy_kcal": 545.454545454545,
+          "fat": 45.4545454545455,
+          "saturated": 27.2727272727273,
+          "carbs": 45.4545454545455,
+          "sugars": 9.09090909090909,
+          "added_sugars": 4.54545454545455,
+          "fiber": 22.7272727272727,
+          "protein": 4.54545454545455,
+          "salt": 0.113636363636364,
+          "sodium": 0.0681818181818182,
+          "energy_srv": 120,
+          "fat_srv": 10,
+          "carbs_srv": 10,
+          "sugars_srv": 2,
+          "protein_srv": 1,
+          "salt_srv": 0.025
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 9.09090909090909,
+        "added_sugars": 4.54545454545455,
+        "natural_sugars": 4.5,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "acrylamide",
+          "id": "acrylamide",
+          "name": "Acrylamide",
+          "eNumber": null,
+          "category": "Process Contaminant",
+          "risk": "high",
+          "effects": "Probable carcinogen, neurotoxic at high doses",
+          "limit": "ALARA (no official limit)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1787328129017,
+      "fetchedAt": 1787328129017,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3599,6 +3701,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-21",
-    "totalProducts": 38
+    "totalProducts": 39
   }
 }
