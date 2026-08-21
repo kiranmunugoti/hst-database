@@ -3339,6 +3339,66 @@
       "fetchedAt": 1787014252104,
       "domain": "food",
       "version": 1
+    },
+    "purified water": {
+      "offData": {
+        "name": "PURIFIED WATER",
+        "source": "off",
+        "brand": "Member's Mark",
+        "brands": [
+          "Member's Mark"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/007/874/205/1451/front_en.84.400.jpg",
+        "quantity": "40 pk. 16.9oz",
+        "servingSize": "1 serving (499.792 g)",
+        "nutriScore": "b",
+        "novaGroup": 1,
+        "ecoScore": "not-applicable",
+        "ingredients": "PURIFIED WATER, CALCIUM CHLORIDE, SODIUM BICARBONATE.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "waters"
+        ],
+        "nut": {
+          "energy_kcal": 0,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 0,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": 0,
+          "fat_srv": 0,
+          "carbs_srv": 0,
+          "sugars_srv": 0,
+          "protein_srv": 0,
+          "salt_srv": 0
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787281085995,
+      "fetchedAt": 1787281085994,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3394,7 +3454,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-19",
-    "totalProducts": 36
+    "lastUpdated": "2026-08-21",
+    "totalProducts": 37
   }
 }
