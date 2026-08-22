@@ -3706,7 +3706,8 @@
         "source": "community",
         "_domain": "cosmetics",
         "contributedBy": "rjs8epzmb",
-        "contributedAt": 1787373873067
+        "contributedAt": 1787373873067,
+        "image": "https://raw.githubusercontent.com/kiranmunugoti/hst-database/main/images/fresh mint.jpg"
       },
       "aiSugarData": null,
       "allSubs": [
@@ -3733,7 +3734,7 @@
       "diet": "n/a",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1787373873076,
+      "savedAt": 1787373875072,
       "fetchedAt": 1787373873076,
       "domain": "cosmetics",
       "formulation": {
