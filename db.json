@@ -3869,6 +3869,97 @@
       },
       "version": 1,
       "alts": []
+    },
+    "milk came": {
+      "offData": {
+        "name": "Milk Came",
+        "source": "off",
+        "brand": "Haldiram's",
+        "brands": [
+          "Haldiram's"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/890/406/328/1470/front_en.15.400.jpg",
+        "quantity": "340 g",
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": 4,
+        "ecoScore": "unknown",
+        "ingredients": "ngredients: concentrated milk solids (70%), sugar, clarified butter, liquid glucose and cardamom powder, contains milk , corn components, this product is made in a facility that processes foods containing peanuts, tree nuts , wheat, thawing options s 1 room temperature remove tray from freezer and leave at room temperature for approximately 50-60 minutes or more for the required softness,  2 refrigerator/overnight remove tray from freezer and place in refrigerator overnight, 3 microwave do not remove tray from freezer pierce lidding refreeze after thawing 45-60 sec n 8 se ser amo ca tota tr chol sodi tota di prot vitam calci *the servir day is nu typic value energ fat, to of w carbo of w fibre protei",
+        "additives": [],
+        "allergens": [
+          "gluten",
+          "milk",
+          "nuts"
+        ],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 418.60465116279,
+          "fat": 23.255813953488,
+          "saturated": 16.279069767442,
+          "carbs": 39.53488372093,
+          "sugars": 34.883720930233,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 13.953488372093,
+          "salt": 0.1453488372093,
+          "sodium": 0.05813953488372,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 34.883720930233,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 32,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1787411844810,
+      "fetchedAt": 1787411844808,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -3925,6 +4016,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-22",
-    "totalProducts": 41
+    "totalProducts": 42
   }
 }
