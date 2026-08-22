@@ -3956,10 +3956,11 @@
       "diet": "vegetarian",
       "undeclaredCount": 2,
       "hitCount": 1,
-      "savedAt": 1787411844810,
+      "savedAt": 1787411845679,
       "fetchedAt": 1787411844808,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": []
     }
   },
   "searchLog": [
