@@ -3961,6 +3961,95 @@
       "domain": "food",
       "version": 1,
       "alts": []
+    },
+    "sweet  salty kettle corn": {
+      "offData": {
+        "name": "Sweet & Salty Kettle Corn",
+        "source": "off",
+        "brand": "PopCorners",
+        "brands": [
+          "PopCorners"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/089/359/400/2075/front_en.134.400.jpg",
+        "quantity": "1 oz (28.3g)",
+        "servingSize": "1 package (28.3 g)",
+        "nutriScore": "c",
+        "novaGroup": 3,
+        "ecoScore": "b",
+        "ingredients": "YELLOW CORN, SUNFLOWER OIL, CANE SUGAR, AND SEA SALT",
+        "additives": [],
+        "allergens": [],
+        "labels": [
+          "no-gluten",
+          "kosher",
+          "no-artificial-flavors",
+          "no-artificial-preservatives",
+          "no-gmos",
+          "kosher-parve",
+          "no-artificial-colors",
+          "no-artificial-colours-and-preservatives",
+          "no-trans-fat",
+          "non-gmo-project",
+          "orthodox-union-kosher",
+          "Nongmo"
+        ],
+        "categories": [
+          "snacks",
+          "salty-snacks",
+          "appetizers"
+        ],
+        "nut": {
+          "energy_kcal": 459.363957597173,
+          "fat": 15.87,
+          "saturated": 0,
+          "carbs": 74.07,
+          "sugars": 10.58,
+          "added_sugars": 10.6007067137809,
+          "fiber": 0,
+          "protein": 7.05,
+          "salt": 0.275,
+          "sodium": 0.11,
+          "energy_srv": 130,
+          "fat_srv": 4.49,
+          "carbs_srv": 21,
+          "sugars_srv": 2.99,
+          "protein_srv": 2,
+          "salt_srv": 0.0778
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 10.58,
+        "added_sugars": 10.6007067137809,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1787436023286,
+      "fetchedAt": 1787436023283,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4017,6 +4106,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-22",
-    "totalProducts": 42
+    "totalProducts": 43
   }
 }
