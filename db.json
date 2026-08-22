@@ -3685,6 +3685,96 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "fresh mint": {
+      "offData": {
+        "name": "Fresh Mint",
+        "brand": "NWI Inc",
+        "code": "085317007713",
+        "ingredients": "Sodium Floride - 0.243% (0.15% w/v floride ion), Sorbitol, Silica, Treated Water, Glycerin, PEG-32, Sodium Lauryl Sulfate, Flavor, Titanium Dioxide, Cellulose Gum, Trisodium Phosphate, Sodium Saccharin, Carrageenan, Sodium Benzoate, Tetrasodium pyrophosphate, FD&C Blue #1",
+        "quantity": "0.28 oz",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Toothpaste"
+        ],
+        "nut": {},
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "source": "community",
+        "_domain": "cosmetics",
+        "contributedBy": "rjs8epzmb",
+        "contributedAt": 1787373873067
+      },
+      "aiSugarData": null,
+      "allSubs": [
+        {
+          "key": "sls",
+          "id": "sls",
+          "name": "Sodium Lauryl Sulfate",
+          "category": "Surfactant (anionic)",
+          "risk": "medium",
+          "effects": "Irritant and barrier-disrupting at higher concentrations, especially leave-on",
+          "limit": "No numeric limit; CIR: safe in rinse-off, concentration-limited in leave-on",
+          "body": "CIR",
+          "note": "CIR concluded safe when formulated to be non-irritating — brief skin contact.",
+          "ph": null,
+          "phNote": null,
+          "position": 7,
+          "ofTotal": 16,
+          "ingredientConfirmed": true,
+          "sourceName": "CIR",
+          "sourceUrl": "https://www.cir-safety.org/"
+        }
+      ],
+      "risk": "medium",
+      "diet": "n/a",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787373873076,
+      "fetchedAt": 1787373873076,
+      "domain": "cosmetics",
+      "formulation": {
+        "base": "Other",
+        "total": 16,
+        "leading": [
+          "Sodium Floride - 0.243%",
+          "Sorbitol",
+          "Silica",
+          "Treated Water",
+          "Glycerin"
+        ],
+        "flaggedLeading": [],
+        "allergens": [],
+        "hasFragrance": false,
+        "complexity": "Moderate",
+        "note": "16 declared ingredients. INCI order is by descending concentration down to 1%, so the first few dominate the formulation."
+      },
+      "ph": {
+        "known": false,
+        "note": "No pH-dependent actives were identified."
+      },
+      "delivery": [],
+      "stabilisers": {
+        "present": [
+          {
+            "key": "thickener",
+            "name": "Thickeners",
+            "note": "Set viscosity and help suspend actives evenly."
+          },
+          {
+            "key": "preservative",
+            "name": "Preservative system",
+            "note": "Prevents microbial growth in any product containing water."
+          }
+        ],
+        "gaps": [],
+        "waterBased": true,
+        "hasPreservative": true
+      },
+      "version": 1
     }
   },
   "searchLog": [
@@ -3740,7 +3830,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-21",
-    "totalProducts": 39
+    "lastUpdated": "2026-08-22",
+    "totalProducts": 40
   }
 }
