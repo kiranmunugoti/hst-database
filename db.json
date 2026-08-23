@@ -745,8 +745,8 @@
       "diet": "vegetarian",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1786778883594,
-      "fetchedAt": 1786778881831,
+      "savedAt": 1787455048759,
+      "fetchedAt": 1787455048757,
       "domain": "food",
       "version": 1,
       "alts": [
@@ -4145,7 +4145,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-22",
+    "lastUpdated": "2026-08-23",
     "totalProducts": 43
   }
 }
