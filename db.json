@@ -4090,6 +4090,60 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "cocacola": {
+      "offData": {
+        "name": "CocaCola",
+        "source": "off",
+        "brand": "Cocacola",
+        "brands": [
+          "Cocacola"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/890/752/500/0169/front_en.3.400.jpg",
+        "quantity": "600ml",
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": 4,
+        "ecoScore": "not-applicable",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "carbonated-drinks"
+        ],
+        "nut": {
+          "energy_kcal": null,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787459453534,
+      "fetchedAt": 1787459453533,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4146,6 +4200,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-23",
-    "totalProducts": 43
+    "totalProducts": 44
   }
 }
