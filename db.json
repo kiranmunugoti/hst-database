@@ -4280,6 +4280,68 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "strawberry greek yogurt": {
+      "offData": {
+        "name": "Strawberry greek yogurt",
+        "source": "off",
+        "brand": "Powerful Yogurt",
+        "brands": [
+          "Powerful Yogurt"
+        ],
+        "image": null,
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "a",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [
+          "milk"
+        ],
+        "labels": [],
+        "categories": [
+          "dairies",
+          "fermented-foods",
+          "fermented-milk-products"
+        ],
+        "nut": {
+          "energy_kcal": 81,
+          "fat": 3.52,
+          "saturated": 2.64,
+          "carbs": 4.85,
+          "sugars": 3.08,
+          "added_sugars": null,
+          "fiber": 0.1,
+          "protein": 9.25,
+          "salt": 0.1,
+          "sodium": 0.04,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 3.08,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 35,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1787561755348,
+      "fetchedAt": 1787561755347,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4336,6 +4398,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-08-24",
-    "totalProducts": 45
+    "totalProducts": 46
   }
 }
