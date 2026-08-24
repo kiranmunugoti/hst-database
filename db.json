@@ -4144,6 +4144,102 @@
       "fetchedAt": 1787459453533,
       "domain": "food",
       "version": 1
+    },
+    "pepsi": {
+      "offData": {
+        "name": "Pepsi",
+        "source": "off",
+        "brand": "Pepsi",
+        "brands": [
+          "Pepsi"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/001/200/018/2563/front_en.27.400.jpg",
+        "quantity": null,
+        "servingSize": "16 oz",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "not-applicable",
+        "ingredients": "CARBONATED WATER, HIGH FRUCTOSE CORN SYRUP, CARAMEL COLOR, SUGAR, PHOSPHORIC ACID, CAFFEINE, CITRIC ACID, NATURAL FLAVOR",
+        "additives": [
+          "e150c",
+          "e330",
+          "e338"
+        ],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "carbonated-drinks"
+        ],
+        "nut": {
+          "energy_kcal": 210,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 58,
+          "sugars": 58,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 0,
+          "salt": 0.1125,
+          "sodium": 0.045,
+          "energy_srv": 953,
+          "fat_srv": 0,
+          "carbs_srv": 263,
+          "sugars_srv": 263,
+          "protein_srv": 0,
+          "salt_srv": 0.51
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 58,
+        "added_sugars": 0,
+        "natural_sugars": 58,
+        "gi": 55,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "e150d",
+          "id": "e150d",
+          "name": "Caramel IV (Sulphite Ammonia)",
+          "eNumber": "E150D",
+          "category": "Colour",
+          "risk": "medium",
+          "effects": "Contains 4-MEI, possible carcinogen",
+          "limit": "100 mg/kg bw/day",
+          "foundInIngredient": "Caramel IV (Sulphite Ammonia)",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e150d",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1787547346880,
+      "fetchedAt": 1787547346878,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4199,7 +4295,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-23",
-    "totalProducts": 44
+    "lastUpdated": "2026-08-24",
+    "totalProducts": 45
   }
 }
