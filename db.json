@@ -4236,10 +4236,50 @@
       "diet": "vegan",
       "undeclaredCount": 1,
       "hitCount": 1,
-      "savedAt": 1787547361677,
+      "savedAt": 1787547362383,
       "fetchedAt": 1787547361677,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Essential Water",
+          "brand": "Supervalu",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Topo chico",
+          "brand": null,
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category.",
+          "improvements": [
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Redners Spring Water",
+          "brand": null,
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
