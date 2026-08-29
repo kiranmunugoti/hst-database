@@ -4342,6 +4342,96 @@
       "fetchedAt": 1787561755347,
       "domain": "food",
       "version": 1
+    },
+    "blueberry muffin blueberry": {
+      "offData": {
+        "name": "BLUEBERRY MUFFIN, BLUEBERRY",
+        "source": "usda",
+        "brand": "UDI'S GLUTEN FREE",
+        "brands": [
+          "UDI'S GLUTEN FREE",
+          "Pinnacle Foods Group LLC"
+        ],
+        "image": null,
+        "quantity": "3 oz/85 g",
+        "servingSize": "85g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "SUGAR, LIQUID WHOLE EGGS, WATER, TAPIOCA STARCH, BROWN RICE FLOUR (RICE FLOUR, RICE BRAN WITH GERM), CANOLA OIL, BLUEBERRIES, POTATO STARCH, PALM OIL, LESS THAN 2% OF: DRIED BLUEBERRIES, BAKING POWDER (SODIUM ACID PYROPHOSPHATE, SODIUM BICARBONATE, CORN STARCH, MONOCALCIUM PHOSPHATE), SALT, SUNFLOWER LECITHIN, XANTHAN GUM, LEMON PEEL, NATURAL FLAVOR, LEMON OIL.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Croissants, Sweet Rolls, Muffins & Other Pastries"
+        ],
+        "nut": {
+          "energy_kcal": 329,
+          "fat": 11.8,
+          "saturated": 2.94,
+          "carbs": 51.8,
+          "sugars": 29.4,
+          "added_sugars": 27.1,
+          "fiber": 1.2,
+          "protein": 2.35,
+          "salt": 0.795,
+          "sodium": 0.318,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 29.4,
+        "added_sugars": 27.1,
+        "natural_sugars": 2.3,
+        "gi": 38,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "arsenic",
+          "id": "arsenic",
+          "name": "Arsenic",
+          "eNumber": null,
+          "category": "Heavy Metal",
+          "risk": "high",
+          "effects": "Carcinogen, cardiovascular disease risk",
+          "limit": "0.01 mg/L",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1787998646625,
+      "fetchedAt": 1787998646624,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4397,7 +4487,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-24",
-    "totalProducts": 46
+    "lastUpdated": "2026-08-29",
+    "totalProducts": 47
   }
 }
