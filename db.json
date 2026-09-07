@@ -4521,10 +4521,51 @@
       "diet": "vegan",
       "undeclaredCount": 0,
       "hitCount": 1,
-      "savedAt": 1788819095183,
+      "savedAt": 1788819103215,
       "fetchedAt": 1788819095181,
       "domain": "food",
-      "version": 1
+      "version": 1,
+      "alts": [
+        {
+          "name": "Peñafiel Sangria",
+          "brand": "Peñafiel",
+          "elsewhere": false,
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Wasser, still",
+          "brand": "Saskia",
+          "elsewhere": true,
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g. Not confirmed as sold in your market.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        },
+        {
+          "name": "Water",
+          "brand": "Gill Beck",
+          "elsewhere": true,
+          "reason": "Nutri-Score A option in the same category with 0.00g sugars per 100g. Not confirmed as sold in your market.",
+          "improvements": [
+            "Low sugar",
+            "Better Nutri-Score"
+          ],
+          "nutriScore": "a",
+          "sourceUrl": null,
+          "sourceName": "Open Food Facts"
+        }
+      ]
     }
   },
   "searchLog": [
