@@ -4433,6 +4433,98 @@
       "domain": "food",
       "version": 1,
       "alts": []
+    },
+    "energy drink": {
+      "offData": {
+        "name": "ENERGY DRINK",
+        "source": "usda",
+        "brand": "Red Bull North America",
+        "brands": [
+          "Red Bull North America",
+          "Inc."
+        ],
+        "image": null,
+        "quantity": null,
+        "servingSize": "355ml",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "CARBONATED WATER, CITRIC ACID, TAURINE, SODIUM BICARBONATE, MAGNESIUM CARBONATE, CAFFEINE, ACESULFAME K, ASPARTAME, NIACINAMIDE, CALCIUM PANTOTHENATE, PYRIDOXINE HCL, VITAMIN B12, XANTHAN GUM, NATURAL AND ARTIFICIAL FLAVORS, COLORS.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Soda"
+        ],
+        "nut": {
+          "energy_kcal": 3,
+          "fat": 0,
+          "saturated": null,
+          "carbs": 1.13,
+          "sugars": 0,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0.28,
+          "salt": 0.105,
+          "sodium": 0.042,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [
+        {
+          "key": "e950",
+          "id": "e950",
+          "name": "Acesulfame K",
+          "eNumber": "E950",
+          "category": "Artificial Sweetener",
+          "risk": "medium",
+          "effects": "Possible metabolic effects; debated safety",
+          "limit": "9 mg/kg bw/day",
+          "foundInIngredient": "Acesulfame K",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e950",
+          "source": "local"
+        },
+        {
+          "key": "e951",
+          "id": "e951",
+          "name": "Aspartame",
+          "eNumber": "E951",
+          "category": "Artificial Sweetener",
+          "risk": "medium",
+          "effects": "Possible carcinogen (IARC Group 2B, 2023)",
+          "limit": "40 mg/kg bw/day",
+          "foundInIngredient": "Aspartame",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e951",
+          "source": "local"
+        }
+      ],
+      "risk": "medium",
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1788819095183,
+      "fetchedAt": 1788819095181,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4488,7 +4580,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-08-29",
-    "totalProducts": 47
+    "lastUpdated": "2026-09-07",
+    "totalProducts": 48
   }
 }
