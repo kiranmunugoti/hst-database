@@ -4566,6 +4566,81 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "salted cashews salted": {
+      "offData": {
+        "name": "SALTED CASHEWS, SALTED",
+        "source": "usda",
+        "brand": "PLANTERS",
+        "brands": [
+          "PLANTERS",
+          "Nabisco Food Company"
+        ],
+        "image": null,
+        "quantity": "1.5 oz/42 g",
+        "servingSize": "42g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "INGREDIENTS: CASHEWS, SEA SALT, PEANUT OIL.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Popcorn, Peanuts, Seeds & Related Snacks"
+        ],
+        "nut": {
+          "energy_kcal": 571,
+          "fat": 45.2,
+          "saturated": 8.33,
+          "carbs": 31,
+          "sugars": 7.14,
+          "added_sugars": null,
+          "fiber": 2.4,
+          "protein": 19,
+          "salt": 0.8925,
+          "sodium": 0.357,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 7.14,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1788876643443,
+      "fetchedAt": 1788876643442,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4621,7 +4696,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-07",
-    "totalProducts": 48
+    "lastUpdated": "2026-09-08",
+    "totalProducts": 49
   }
 }
