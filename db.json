@@ -4642,6 +4642,105 @@
       "domain": "food",
       "version": 1,
       "alts": []
+    },
+    "original": {
+      "offData": {
+        "name": "Original",
+        "source": "off",
+        "brand": "Cheez-It",
+        "brands": [
+          "Cheez-It"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/002/410/012/2615/front_en.103.400.jpg",
+        "quantity": "1.5 oz, 42 g",
+        "servingSize": "1 pouch (42 g)",
+        "nutriScore": "e",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": "Enriched flour (wheat flour, niacin, reduced iron, vitamin b1 [thiamin mononitrate], vitamin b2 [riboflavin], folic acid), vegetable oil (high oleic soybean, soybean, palm, and/or canola oil with tbhq for freshness), cheese made with skim milk (skim milk, whey protein, salt, cheese cultures, enzymes, annatto extract color). contains 2% or less of salt, paprika, yeast, paprika extract color, soy lecithin.",
+        "additives": [
+          "e322",
+          "e322i"
+        ],
+        "allergens": [
+          "gluten",
+          "milk",
+          "soybeans"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "salty-snacks",
+          "sweet-snacks"
+        ],
+        "nut": {
+          "energy_kcal": 500,
+          "fat": 26.1904761904762,
+          "saturated": 5.95238095238095,
+          "carbs": 57.1428571428571,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": 2.38095238095238,
+          "protein": 9.52380952380952,
+          "salt": 1.905,
+          "sodium": 0.761904761904762,
+          "energy_srv": 210,
+          "fat_srv": 11,
+          "carbs_srv": 24,
+          "sugars_srv": 0,
+          "protein_srv": 4,
+          "salt_srv": 0.8
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "e319",
+          "id": "e319",
+          "name": "TBHQ",
+          "eNumber": "E319",
+          "category": "Preservative",
+          "risk": "medium",
+          "effects": "Possible carcinogen at high doses, immune effects",
+          "limit": "0.7 mg/kg bw/day",
+          "foundInIngredient": "TBHQ",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e319",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 1,
+      "hitCount": 1,
+      "savedAt": 1788876696616,
+      "fetchedAt": 1788876696615,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4698,6 +4797,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-09-08",
-    "totalProducts": 49
+    "totalProducts": 50
   }
 }
