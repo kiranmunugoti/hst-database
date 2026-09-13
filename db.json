@@ -4781,6 +4781,65 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "plain nonfat greek yogurt plain": {
+      "offData": {
+        "name": "PLAIN NONFAT GREEK YOGURT, PLAIN",
+        "source": "usda",
+        "brand": "MEMBER'S MARK",
+        "brands": [
+          "MEMBER'S MARK",
+          "Sam's Club West"
+        ],
+        "image": null,
+        "quantity": "40 oz/2.5 lbs/1.13 kg",
+        "servingSize": "170g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "CULTURED PASTEURIZED GRADE A NONFAT MILK.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Yogurt"
+        ],
+        "nut": {
+          "energy_kcal": 59,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 3.53,
+          "sugars": 3.53,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 10.6,
+          "salt": 0.08,
+          "sodium": 0.032,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 3.53,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 35,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegetarian",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1789339774162,
+      "fetchedAt": 1789339774160,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4836,7 +4895,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-08",
-    "totalProducts": 50
+    "lastUpdated": "2026-09-13",
+    "totalProducts": 51
   }
 }
