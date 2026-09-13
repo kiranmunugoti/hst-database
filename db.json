@@ -4894,6 +4894,60 @@
       "fetchedAt": 1789340614743,
       "domain": "food",
       "version": 1
+    },
+    "vegetable oil": {
+      "offData": {
+        "name": "VEGETABLE OIL",
+        "source": "usda",
+        "brand": "MEMBER'S MARK",
+        "brands": [
+          "MEMBER'S MARK",
+          "Wal-Mart Stores",
+          "Inc."
+        ],
+        "image": null,
+        "quantity": "96 fl oz/3 Quart/2.84 L",
+        "servingSize": "14g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "SOYBEAN OIL.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Vegetable & Cooking Oils"
+        ],
+        "nut": {
+          "energy_kcal": 857,
+          "fat": 100,
+          "saturated": 14.3,
+          "carbs": 0,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1789340645161,
+      "fetchedAt": 1789340645161,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -4950,6 +5004,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-09-13",
-    "totalProducts": 52
+    "totalProducts": 53
   }
 }
