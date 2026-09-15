@@ -5039,6 +5039,121 @@
       "domain": "food",
       "version": 1,
       "alts": []
+    },
+    "parmesan garlic seasoned pretzel twists": {
+      "offData": {
+        "name": "PARMESAN GARLIC SEASONED PRETZEL TWISTS",
+        "source": "off",
+        "brand": "Dot's Homestyle Pretzels",
+        "brands": [
+          "Dot's Homestyle Pretzels"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/085/003/171/9859/front_en.40.400.jpg",
+        "quantity": "16 oz",
+        "servingSize": "28g",
+        "nutriScore": "d",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": "ENRICHED WHEAT FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMIN MONONITRATE, RIBOFLAVIN, FOLIC ACID), VEGETABLE OIL (CANOLA OIL, CORN OIL, AND/OR SOYBEAN OIL), SALT, MALTODEXTRIN, BUTTERMILK, GARLIC POWDER, CORN SYRUP, MONOSODIUM GLUTAMATE, NATURAL AND ARTIFICIAL FLAVOR, SPICES, PARMESAN CHEESE (MILK, SALT, CHEESE CULTURE, ENZYMES), LACTIC ACID, CITRIC ACID, DEHYDRATED PARSLEY, YEAST.",
+        "additives": [
+          "e270",
+          "e330",
+          "e621"
+        ],
+        "allergens": [
+          "gluten",
+          "milk",
+          "soybeans"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "salty-snacks",
+          "appetizers"
+        ],
+        "nut": {
+          "energy_kcal": 500,
+          "fat": 17.8571428571429,
+          "saturated": 1.78571428571429,
+          "carbs": 67.8571428571429,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 7.14285714285714,
+          "salt": 2.32142857142857,
+          "sodium": 0.928571428571429,
+          "energy_srv": 140,
+          "fat_srv": 5,
+          "carbs_srv": 19,
+          "sugars_srv": 0,
+          "protein_srv": 2,
+          "salt_srv": 0.65
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [
+        {
+          "key": "e621",
+          "id": "e621",
+          "name": "MSG",
+          "eNumber": "E621",
+          "category": "Flavour Enhancer",
+          "risk": "low",
+          "effects": "Headaches in sensitive individuals; GRAS",
+          "limit": "No ADI",
+          "foundInIngredient": "declared additives",
+          "ingredientConfirmed": true,
+          "body": "EFSA",
+          "sourceName": "EFSA / JECFA (via Open Food Facts)",
+          "sourceUrl": "https://world.openfoodfacts.org/additive/e621",
+          "source": "local"
+        },
+        {
+          "key": "aflatoxin",
+          "id": "aflatoxin",
+          "name": "Aflatoxin B1",
+          "eNumber": null,
+          "category": "Mycotoxin",
+          "risk": "high",
+          "effects": "Potent carcinogen, liver damage",
+          "limit": "2 µg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegetarian",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1789506431120,
+      "fetchedAt": 1789506431118,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5095,6 +5210,6 @@
   ],
   "_meta": {
     "lastUpdated": "2026-09-15",
-    "totalProducts": 54
+    "totalProducts": 55
   }
 }
