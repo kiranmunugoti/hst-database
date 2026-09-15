@@ -4948,6 +4948,96 @@
       "fetchedAt": 1789340645161,
       "domain": "food",
       "version": 1
+    },
+    "chocolate sandwich cookies chocolate": {
+      "offData": {
+        "name": "CHOCOLATE SANDWICH COOKIES, CHOCOLATE",
+        "source": "usda",
+        "brand": "OREO",
+        "brands": [
+          "OREO",
+          "Nabisco Biscuit Company"
+        ],
+        "image": null,
+        "quantity": "1.77 kg",
+        "servingSize": "34GRM",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "UNBLEACHED ENRICHED FLOUR (WHEAT FLOUR, NIACIN, REDUCED IRON, THIAMINE MONONITRATE {VITAMIN B1}, RIBOFLAVIN {VITAMIN B2}, FOLIC ACID), SUGAR, PALM OIL, SOYBEAN AND/OR CANOLA OIL, COCOA (PROCESSED WITH ALKALI), INVERT SUGAR, LEAVENING (BAKING SODA AND/OR CALCIUM PHOSPHATE), SOY LECITHIN, SALT, CHOCOLATE, NATURAL FLAVOR.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Cookies & Biscuits"
+        ],
+        "nut": {
+          "energy_kcal": 471,
+          "fat": 20.6,
+          "saturated": 5.88,
+          "carbs": 73.5,
+          "sugars": 41.2,
+          "added_sugars": 41.2,
+          "fiber": 2.9,
+          "protein": 2.94,
+          "salt": 0.845,
+          "sodium": 0.338,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 41.2,
+        "added_sugars": 41.2,
+        "natural_sugars": 0,
+        "gi": 63,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [
+        {
+          "key": "acrylamide",
+          "id": "acrylamide",
+          "name": "Acrylamide",
+          "eNumber": null,
+          "category": "Process Contaminant",
+          "risk": "high",
+          "effects": "Probable carcinogen, neurotoxic at high doses",
+          "limit": "ALARA (no official limit)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        },
+        {
+          "key": "glyphosate",
+          "id": "glyphosate",
+          "name": "Glyphosate",
+          "eNumber": null,
+          "category": "Pesticide",
+          "risk": "high",
+          "effects": "Potential carcinogen (IARC Group 2A), gut microbiome disruption",
+          "limit": "0.1 mg/kg (EU)",
+          "foundInIngredient": null,
+          "ingredientConfirmed": false,
+          "sourceUrl": null,
+          "sourceName": "Category pattern",
+          "source": "local"
+        }
+      ],
+      "risk": "high",
+      "diet": "vegan",
+      "undeclaredCount": 2,
+      "hitCount": 1,
+      "savedAt": 1789506158033,
+      "fetchedAt": 1789506158031,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5003,7 +5093,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-13",
-    "totalProducts": 53
+    "lastUpdated": "2026-09-15",
+    "totalProducts": 54
   }
 }
