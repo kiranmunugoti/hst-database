@@ -5194,6 +5194,70 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "retro vibe sparkling sherbet soda": {
+      "offData": {
+        "name": "RETRO Vibe Sparkling Sherbet Soda",
+        "source": "off",
+        "brand": "CELSIUS",
+        "brands": [
+          "CELSIUS"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/088/939/200/1723/front_en.109.400.jpg",
+        "quantity": "12 fl oz",
+        "servingSize": "355ml",
+        "nutriScore": "b",
+        "novaGroup": 4,
+        "ecoScore": "not-applicable",
+        "ingredients": "Carbonated Filtered Water, Taurine, Citric Acid, Guarana Seed Extract, Green Tea Extract, Caffeine, Calcium Carbonate, Sucrasic Ascorbic Acid, Glucuronolactone, Ginger Root Extract, Natural Flavor, Calcium Pantothenate, Niacinamide, Pyridoxine Hydrochloride, Riboflavin, Biotin, Chromium Chelate, Cyanocobalamin.",
+        "additives": [
+          "e330"
+        ],
+        "allergens": [],
+        "labels": [
+          "kosher"
+        ],
+        "categories": [
+          "beverages-and-beverages-preparations",
+          "beverages",
+          "energy-drinks"
+        ],
+        "nut": {
+          "energy_kcal": 2.8169014084507,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 0,
+          "sugars": 0,
+          "added_sugars": 0,
+          "fiber": 0,
+          "protein": 0,
+          "salt": 0.00352112676056338,
+          "sodium": 0.00140845070422535,
+          "energy_srv": 10,
+          "fat_srv": 0,
+          "carbs_srv": 0,
+          "sugars_srv": 0,
+          "protein_srv": 0,
+          "salt_srv": 0.0125
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": 0,
+        "natural_sugars": 0,
+        "gi": 63,
+        "diabeticRisk": "medium"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1789679635969,
+      "fetchedAt": 1789679635967,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5249,7 +5313,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-15",
-    "totalProducts": 55
+    "lastUpdated": "2026-09-17",
+    "totalProducts": 56
   }
 }
