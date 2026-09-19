@@ -5258,6 +5258,64 @@
       "fetchedAt": 1789679635967,
       "domain": "food",
       "version": 1
+    },
+    "apple": {
+      "offData": {
+        "name": "APPLE",
+        "source": "usda",
+        "brand": "TREECRISP 2 GO",
+        "brands": [
+          "TREECRISP 2 GO"
+        ],
+        "image": null,
+        "quantity": null,
+        "servingSize": "154g",
+        "nutriScore": null,
+        "novaGroup": null,
+        "ecoScore": null,
+        "ingredients": "CRISP APPLE.",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "Pre-Packaged Fruit & Vegetables"
+        ],
+        "nut": {
+          "energy_kcal": 52,
+          "fat": 0.65,
+          "saturated": 0,
+          "carbs": 14.3,
+          "sugars": 10.4,
+          "added_sugars": null,
+          "fiber": 3.2,
+          "protein": 0,
+          "salt": 0,
+          "sodium": 0,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 10.4,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 38,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1789802408814,
+      "fetchedAt": 1789802408813,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5313,7 +5371,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-17",
-    "totalProducts": 56
+    "lastUpdated": "2026-09-19",
+    "totalProducts": 57
   }
 }
