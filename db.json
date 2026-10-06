@@ -5316,6 +5316,68 @@
       "fetchedAt": 1789802408813,
       "domain": "food",
       "version": 1
+    },
+    "vanilla bean handmade marshmallows": {
+      "offData": {
+        "name": "Vanilla Bean Handmade Marshmallows",
+        "source": "off",
+        "brand": "Hudson Valley Marshmallow Co.",
+        "brands": [
+          "Hudson Valley Marshmallow Co."
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/074/774/214/3076/front_en.3.400.jpg",
+        "quantity": "4 oz",
+        "servingSize": null,
+        "nutriScore": "d",
+        "novaGroup": 4,
+        "ecoScore": "b",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [
+          "gelatin"
+        ],
+        "labels": [],
+        "categories": [
+          "snacks",
+          "sweet-snacks",
+          "confectioneries"
+        ],
+        "nut": {
+          "energy_kcal": 285.71428571429,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 75,
+          "sugars": 57.142857142857,
+          "added_sugars": null,
+          "fiber": 0,
+          "protein": 3.5714285714286,
+          "salt": 0.625,
+          "sodium": 0.25,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 57.142857142857,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "high"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "meat",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1791249491515,
+      "fetchedAt": 1791249491514,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5371,7 +5433,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-09-19",
-    "totalProducts": 57
+    "lastUpdated": "2026-10-06",
+    "totalProducts": 58
   }
 }
