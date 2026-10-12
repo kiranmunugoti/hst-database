@@ -5418,6 +5418,62 @@
           "sourceName": "Open Food Facts"
         }
       ]
+    },
+    "pickled hot jalapeno": {
+      "offData": {
+        "name": "Pickled hot jalapeno",
+        "source": "off",
+        "brand": "Old El Paso",
+        "brands": [
+          "Old El Paso"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/004/600/085/2812/front_en.7.400.jpg",
+        "quantity": null,
+        "servingSize": null,
+        "nutriScore": "unknown",
+        "novaGroup": null,
+        "ecoScore": "unknown",
+        "ingredients": "Jalapeno Pepper, Water, Vinegar, Salt, Calcium Chloride",
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [],
+        "nut": {
+          "energy_kcal": 16.129032258065,
+          "fat": 0,
+          "saturated": 0,
+          "carbs": 3.2258064516129,
+          "sugars": 0,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": 0,
+          "salt": 1.5322580645161,
+          "sodium": 0.61290322580644,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": {
+        "total_sugars": 0,
+        "added_sugars": null,
+        "natural_sugars": null,
+        "gi": 55,
+        "diabeticRisk": "low"
+      },
+      "allSubs": [],
+      "risk": null,
+      "diet": "vegan",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1791771313649,
+      "fetchedAt": 1791771313648,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5473,7 +5529,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-10-06",
-    "totalProducts": 58
+    "lastUpdated": "2026-10-12",
+    "totalProducts": 59
   }
 }
