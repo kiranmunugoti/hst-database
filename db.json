@@ -5474,6 +5474,60 @@
       "fetchedAt": 1791771313648,
       "domain": "food",
       "version": 1
+    },
+    "red onions": {
+      "offData": {
+        "name": "Red onions",
+        "source": "off",
+        "brand": "oaklands",
+        "brands": [
+          "oaklands"
+        ],
+        "image": "https://images.openfoodfacts.org/images/products/20175887/front.7.400.jpg",
+        "quantity": "750g",
+        "servingSize": null,
+        "nutriScore": "a",
+        "novaGroup": 1,
+        "ecoScore": "a-plus",
+        "ingredients": null,
+        "additives": [],
+        "allergens": [],
+        "labels": [],
+        "categories": [
+          "plant-based-foods-and-beverages",
+          "plant-based-foods",
+          "fruits-and-vegetables-based-foods"
+        ],
+        "nut": {
+          "energy_kcal": null,
+          "fat": null,
+          "saturated": null,
+          "carbs": null,
+          "sugars": null,
+          "added_sugars": null,
+          "fiber": null,
+          "protein": null,
+          "salt": null,
+          "sodium": null,
+          "energy_srv": null,
+          "fat_srv": null,
+          "carbs_srv": null,
+          "sugars_srv": null,
+          "protein_srv": null,
+          "salt_srv": null
+        },
+        "_domain": "food"
+      },
+      "aiSugarData": null,
+      "allSubs": [],
+      "risk": null,
+      "diet": "unknown",
+      "undeclaredCount": 0,
+      "hitCount": 1,
+      "savedAt": 1792255752705,
+      "fetchedAt": 1792255752704,
+      "domain": "food",
+      "version": 1
     }
   },
   "searchLog": [
@@ -5529,7 +5583,7 @@
     }
   ],
   "_meta": {
-    "lastUpdated": "2026-10-12",
-    "totalProducts": 59
+    "lastUpdated": "2026-10-17",
+    "totalProducts": 60
   }
 }
